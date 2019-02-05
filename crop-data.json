@@ -1,0 +1,5564 @@
+[
+  {
+    "Year": "1998",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Rice",
+    "Values": "11878000"
+  },
+  {
+    "Year": "1998",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "16501700"
+  },
+  {
+    "Year": "1998",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Wheat",
+    "Values": "6400"
+  },
+  {
+    "Year": "1998",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "114116"
+  },
+  {
+    "Year": "1998",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "15032"
+  },
+  {
+    "Year": "1998",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "4395"
+  },
+  {
+    "Year": "1998",
+    "State": "ASSAM",
+    "Crop": "Rice",
+    "Values": "3254833"
+  },
+  {
+    "Year": "1998",
+    "State": "ASSAM",
+    "Crop": "Sugarcane",
+    "Values": "1223578"
+  },
+  {
+    "Year": "1998",
+    "State": "ASSAM",
+    "Crop": "Wheat",
+    "Values": "90509"
+  },
+  {
+    "Year": "1998",
+    "State": "BIHAR",
+    "Crop": "Rice",
+    "Values": "5993441"
+  },
+  {
+    "Year": "1998",
+    "State": "BIHAR",
+    "Crop": "Sugarcane",
+    "Values": "5101066"
+  },
+  {
+    "Year": "1998",
+    "State": "BIHAR",
+    "Crop": "Wheat",
+    "Values": "4403655"
+  },
+  {
+    "Year": "1998",
+    "State": "CHANDIGARH",
+    "Crop": "Rice",
+    "Values": "360"
+  },
+  {
+    "Year": "1998",
+    "State": "CHANDIGARH",
+    "Crop": "Wheat",
+    "Values": "3960"
+  },
+  {
+    "Year": "1998",
+    "State": "DELHI",
+    "Crop": "Rice",
+    "Values": "10799"
+  },
+  {
+    "Year": "1998",
+    "State": "DELHI",
+    "Crop": "Sugarcane",
+    "Values": "3"
+  },
+  {
+    "Year": "1998",
+    "State": "DELHI",
+    "Crop": "Wheat",
+    "Values": "107729"
+  },
+  {
+    "Year": "1998",
+    "State": "GOA",
+    "Crop": "Rice",
+    "Values": "151174"
+  },
+  {
+    "Year": "1998",
+    "State": "GUJARAT",
+    "Crop": "Rice",
+    "Values": "1015900"
+  },
+  {
+    "Year": "1998",
+    "State": "GUJARAT",
+    "Crop": "Sugarcane",
+    "Values": "13565490"
+  },
+  {
+    "Year": "1998",
+    "State": "GUJARAT",
+    "Crop": "Wheat",
+    "Values": "1702600"
+  },
+  {
+    "Year": "1998",
+    "State": "HARYANA",
+    "Crop": "Rice",
+    "Values": "2432000"
+  },
+  {
+    "Year": "1998",
+    "State": "HARYANA",
+    "Crop": "Sugarcane",
+    "Values": "7010000"
+  },
+  {
+    "Year": "1998",
+    "State": "HARYANA",
+    "Crop": "Wheat",
+    "Values": "8527000"
+  },
+  {
+    "Year": "1998",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "116997"
+  },
+  {
+    "Year": "1998",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "481267"
+  },
+  {
+    "Year": "1998",
+    "State": "KARNATAKA",
+    "Crop": "Rice",
+    "Values": "3656811"
+  },
+  {
+    "Year": "1998",
+    "State": "KARNATAKA",
+    "Crop": "Wheat",
+    "Values": "219433"
+  },
+  {
+    "Year": "1998",
+    "State": "KERALA",
+    "Crop": "Rice",
+    "Values": "726743"
+  },
+  {
+    "Year": "1998",
+    "State": "KERALA",
+    "Crop": "Sugarcane",
+    "Values": "47216"
+  },
+  {
+    "Year": "1998",
+    "State": "MANIPUR",
+    "Crop": "Rice",
+    "Values": "382190"
+  },
+  {
+    "Year": "1998",
+    "State": "MANIPUR",
+    "Crop": "Sugarcane",
+    "Values": "22870"
+  },
+  {
+    "Year": "1998",
+    "State": "MEGHALYA",
+    "Crop": "Rice",
+    "Values": "149742"
+  },
+  {
+    "Year": "1998",
+    "State": "MEGHALYA",
+    "Crop": "Sugarcane",
+    "Values": "225"
+  },
+  {
+    "Year": "1998",
+    "State": "MEGHALYA",
+    "Crop": "Wheat",
+    "Values": "6998"
+  },
+  {
+    "Year": "1998",
+    "State": "MIZORAM",
+    "Crop": "Rice",
+    "Values": "110813"
+  },
+  {
+    "Year": "1998",
+    "State": "MIZORAM",
+    "Crop": "Sugarcane",
+    "Values": "7863"
+  },
+  {
+    "Year": "1998",
+    "State": "MIZORAM",
+    "Crop": "Wheat",
+    "Values": "48"
+  },
+  {
+    "Year": "1998",
+    "State": "ORISSA",
+    "Crop": "Rice",
+    "Values": "5391322"
+  },
+  {
+    "Year": "1998",
+    "State": "ORISSA",
+    "Crop": "Sugarcane",
+    "Values": "1469529"
+  },
+  {
+    "Year": "1998",
+    "State": "ORISSA",
+    "Crop": "Wheat",
+    "Values": "4441"
+  },
+  {
+    "Year": "1998",
+    "State": "PUNJAB",
+    "Crop": "Rice",
+    "Values": "7940000"
+  },
+  {
+    "Year": "1998",
+    "State": "PUNJAB",
+    "Crop": "Sugarcane",
+    "Values": "6130000"
+  },
+  {
+    "Year": "1998",
+    "State": "PUNJAB",
+    "Crop": "Wheat",
+    "Values": "14460000"
+  },
+  {
+    "Year": "1998",
+    "State": "SIKKIM",
+    "Crop": "Rice",
+    "Values": "21957"
+  },
+  {
+    "Year": "1998",
+    "State": "SIKKIM",
+    "Crop": "Wheat",
+    "Values": "6416"
+  },
+  {
+    "Year": "1998",
+    "State": "TAMIL NADU",
+    "Crop": "Rice",
+    "Values": "8215286"
+  },
+  {
+    "Year": "1998",
+    "State": "TAMIL NADU",
+    "Crop": "Sugarcane",
+    "Values": "46672800"
+  },
+  {
+    "Year": "1998",
+    "State": "TAMIL NADU",
+    "Crop": "Wheat",
+    "Values": "34"
+  },
+  {
+    "Year": "1999",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Rice",
+    "Values": "10637915"
+  },
+  {
+    "Year": "1999",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "18507614"
+  },
+  {
+    "Year": "1999",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Wheat",
+    "Values": "9056"
+  },
+  {
+    "Year": "1999",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "134807"
+  },
+  {
+    "Year": "1999",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "16219"
+  },
+  {
+    "Year": "1999",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "5069"
+  },
+  {
+    "Year": "1999",
+    "State": "ASSAM",
+    "Crop": "Rice",
+    "Values": "3860648"
+  },
+  {
+    "Year": "1999",
+    "State": "ASSAM",
+    "Crop": "Sugarcane",
+    "Values": "1154615"
+  },
+  {
+    "Year": "1999",
+    "State": "ASSAM",
+    "Crop": "Wheat",
+    "Values": "97583"
+  },
+  {
+    "Year": "1999",
+    "State": "BIHAR",
+    "Crop": "Rice",
+    "Values": "1109089"
+  },
+  {
+    "Year": "1999",
+    "State": "BIHAR",
+    "Crop": "Sugarcane",
+    "Values": "4088505"
+  },
+  {
+    "Year": "1999",
+    "State": "BIHAR",
+    "Crop": "Wheat",
+    "Values": "4583515"
+  },
+  {
+    "Year": "1999",
+    "State": "CHANDIGARH",
+    "Crop": "Rice",
+    "Values": "240"
+  },
+  {
+    "Year": "1999",
+    "State": "CHANDIGARH",
+    "Crop": "Wheat",
+    "Values": "3600"
+  },
+  {
+    "Year": "1999",
+    "State": "D & N HAVELI",
+    "Crop": "Rice",
+    "Values": "28692"
+  },
+  {
+    "Year": "1999",
+    "State": "D & N HAVELI",
+    "Crop": "Sugarcane",
+    "Values": "117120"
+  },
+  {
+    "Year": "1999",
+    "State": "D & N HAVELI",
+    "Crop": "Wheat",
+    "Values": "1236"
+  },
+  {
+    "Year": "1999",
+    "State": "DELHI",
+    "Crop": "Rice",
+    "Values": "15279"
+  },
+  {
+    "Year": "1999",
+    "State": "DELHI",
+    "Crop": "Sugarcane",
+    "Values": "2"
+  },
+  {
+    "Year": "1999",
+    "State": "DELHI",
+    "Crop": "Wheat",
+    "Values": "122058"
+  },
+  {
+    "Year": "1999",
+    "State": "GOA",
+    "Crop": "Rice",
+    "Values": "139923"
+  },
+  {
+    "Year": "1999",
+    "State": "GUJARAT",
+    "Crop": "Rice",
+    "Values": "984900"
+  },
+  {
+    "Year": "1999",
+    "State": "GUJARAT",
+    "Crop": "Sugarcane",
+    "Values": "14054000"
+  },
+  {
+    "Year": "1999",
+    "State": "GUJARAT",
+    "Crop": "Wheat",
+    "Values": "1020000"
+  },
+  {
+    "Year": "1999",
+    "State": "HARYANA",
+    "Crop": "Rice",
+    "Values": "2563000"
+  },
+  {
+    "Year": "1999",
+    "State": "HARYANA",
+    "Crop": "Sugarcane",
+    "Values": "7640000"
+  },
+  {
+    "Year": "1999",
+    "State": "HARYANA",
+    "Crop": "Wheat",
+    "Values": "9650000"
+  },
+  {
+    "Year": "1999",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "120365"
+  },
+  {
+    "Year": "1999",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "15470"
+  },
+  {
+    "Year": "1999",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "583300"
+  },
+  {
+    "Year": "1999",
+    "State": "KARNATAKA",
+    "Crop": "Rice",
+    "Values": "3716730"
+  },
+  {
+    "Year": "1999",
+    "State": "KARNATAKA",
+    "Crop": "Sugarcane",
+    "Values": "37397876"
+  },
+  {
+    "Year": "1999",
+    "State": "KARNATAKA",
+    "Crop": "Wheat",
+    "Values": "217613"
+  },
+  {
+    "Year": "1999",
+    "State": "KERALA",
+    "Crop": "Rice",
+    "Values": "770656"
+  },
+  {
+    "Year": "1999",
+    "State": "KERALA",
+    "Crop": "Sugarcane",
+    "Values": "578820"
+  },
+  {
+    "Year": "1999",
+    "State": "MADHYA PRADESH",
+    "Crop": "Rice",
+    "Values": "6765359"
+  },
+  {
+    "Year": "1999",
+    "State": "MADHYA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "1991500"
+  },
+  {
+    "Year": "1999",
+    "State": "MADHYA PRADESH",
+    "Crop": "Wheat",
+    "Values": "8685197"
+  },
+  {
+    "Year": "1999",
+    "State": "MAHARASHTRA",
+    "Crop": "Rice",
+    "Values": "2549300"
+  },
+  {
+    "Year": "1999",
+    "State": "MAHARASHTRA",
+    "Crop": "Sugarcane",
+    "Values": "53140400"
+  },
+  {
+    "Year": "1999",
+    "State": "MAHARASHTRA",
+    "Crop": "Wheat",
+    "Values": "1425900"
+  },
+  {
+    "Year": "1999",
+    "State": "MANIPUR",
+    "Crop": "Rice",
+    "Values": "364980"
+  },
+  {
+    "Year": "1999",
+    "State": "MANIPUR",
+    "Crop": "Sugarcane",
+    "Values": "21230"
+  },
+  {
+    "Year": "1999",
+    "State": "MEGHALYA",
+    "Crop": "Rice",
+    "Values": "170733"
+  },
+  {
+    "Year": "1999",
+    "State": "MEGHALYA",
+    "Crop": "Sugarcane",
+    "Values": "223"
+  },
+  {
+    "Year": "1999",
+    "State": "MIZORAM",
+    "Crop": "Rice",
+    "Values": "88397"
+  },
+  {
+    "Year": "1999",
+    "State": "MIZORAM",
+    "Crop": "Sugarcane",
+    "Values": "1510"
+  },
+  {
+    "Year": "1999",
+    "State": "MIZORAM",
+    "Crop": "Wheat",
+    "Values": "38"
+  },
+  {
+    "Year": "1999",
+    "State": "NAGALAND",
+    "Crop": "Rice",
+    "Values": "222000"
+  },
+  {
+    "Year": "1999",
+    "State": "NAGALAND",
+    "Crop": "Sugarcane",
+    "Values": "30000"
+  },
+  {
+    "Year": "1999",
+    "State": "ORISSA",
+    "Crop": "Rice",
+    "Values": "5186000"
+  },
+  {
+    "Year": "1999",
+    "State": "ORISSA",
+    "Crop": "Sugarcane",
+    "Values": "1196440"
+  },
+  {
+    "Year": "1999",
+    "State": "ORISSA",
+    "Crop": "Wheat",
+    "Values": "7676"
+  },
+  {
+    "Year": "1999",
+    "State": "PONDICHERRY",
+    "Crop": "Rice",
+    "Values": "59433"
+  },
+  {
+    "Year": "1999",
+    "State": "PONDICHERRY",
+    "Crop": "Sugarcane",
+    "Values": "237610"
+  },
+  {
+    "Year": "1999",
+    "State": "PUNJAB",
+    "Crop": "Rice",
+    "Values": "8716000"
+  },
+  {
+    "Year": "1999",
+    "State": "PUNJAB",
+    "Crop": "Sugarcane",
+    "Values": "6770000"
+  },
+  {
+    "Year": "1999",
+    "State": "PUNJAB",
+    "Crop": "Wheat",
+    "Values": "15910000"
+  },
+  {
+    "Year": "1999",
+    "State": "RAJASTHAN",
+    "Crop": "Rice",
+    "Values": "252554"
+  },
+  {
+    "Year": "1999",
+    "State": "RAJASTHAN",
+    "Crop": "Sugarcane",
+    "Values": "786833"
+  },
+  {
+    "Year": "1999",
+    "State": "RAJASTHAN",
+    "Crop": "Wheat",
+    "Values": "6731931"
+  },
+  {
+    "Year": "1999",
+    "State": "SIKKIM",
+    "Crop": "Rice",
+    "Values": "23439"
+  },
+  {
+    "Year": "1999",
+    "State": "SIKKIM",
+    "Crop": "Wheat",
+    "Values": "12849"
+  },
+  {
+    "Year": "1999",
+    "State": "TAMIL NADU",
+    "Crop": "Rice",
+    "Values": "7225373"
+  },
+  {
+    "Year": "1999",
+    "State": "TAMIL NADU",
+    "Crop": "Sugarcane",
+    "Values": "35501817"
+  },
+  {
+    "Year": "1999",
+    "State": "TAMIL NADU",
+    "Crop": "Wheat",
+    "Values": "16"
+  },
+  {
+    "Year": "1999",
+    "State": "TRIPURA",
+    "Crop": "Rice",
+    "Values": "505680"
+  },
+  {
+    "Year": "1999",
+    "State": "TRIPURA",
+    "Crop": "Sugarcane",
+    "Values": "51300"
+  },
+  {
+    "Year": "1999",
+    "State": "TRIPURA",
+    "Crop": "Wheat",
+    "Values": "2400"
+  },
+  {
+    "Year": "1999",
+    "State": "UTTAR PRADESH",
+    "Crop": "Rice",
+    "Values": "13246725"
+  },
+  {
+    "Year": "1999",
+    "State": "UTTAR PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "115418883"
+  },
+  {
+    "Year": "1999",
+    "State": "UTTAR PRADESH",
+    "Crop": "Wheat",
+    "Values": "26050768"
+  },
+  {
+    "Year": "1999",
+    "State": "WEST BENGAL",
+    "Crop": "Rice",
+    "Values": "13759680"
+  },
+  {
+    "Year": "1999",
+    "State": "WEST BENGAL",
+    "Crop": "Sugarcane",
+    "Values": "1762806"
+  },
+  {
+    "Year": "1999",
+    "State": "WEST BENGAL",
+    "Crop": "Wheat",
+    "Values": "850778"
+  },
+  {
+    "Year": "2000",
+    "State": "A & N ISLANDS",
+    "Crop": "Rice",
+    "Values": "32184"
+  },
+  {
+    "Year": "2000",
+    "State": "A & N ISLANDS",
+    "Crop": "Sugarcane",
+    "Values": "3738"
+  },
+  {
+    "Year": "2000",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Rice",
+    "Values": "12458014"
+  },
+  {
+    "Year": "2000",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "17690131"
+  },
+  {
+    "Year": "2000",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Wheat",
+    "Values": "8121"
+  },
+  {
+    "Year": "2000",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "132690"
+  },
+  {
+    "Year": "2000",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "14358"
+  },
+  {
+    "Year": "2000",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "6226"
+  },
+  {
+    "Year": "2000",
+    "State": "ASSAM",
+    "Crop": "Rice",
+    "Values": "3998443"
+  },
+  {
+    "Year": "2000",
+    "State": "ASSAM",
+    "Crop": "Sugarcane",
+    "Values": "987696"
+  },
+  {
+    "Year": "2000",
+    "State": "ASSAM",
+    "Crop": "Wheat",
+    "Values": "85695"
+  },
+  {
+    "Year": "2000",
+    "State": "BIHAR",
+    "Crop": "Rice",
+    "Values": "5444370"
+  },
+  {
+    "Year": "2000",
+    "State": "BIHAR",
+    "Crop": "Sugarcane",
+    "Values": "3985577"
+  },
+  {
+    "Year": "2000",
+    "State": "BIHAR",
+    "Crop": "Wheat",
+    "Values": "4437958"
+  },
+  {
+    "Year": "2000",
+    "State": "CHANDIGARH",
+    "Crop": "Rice",
+    "Values": "350"
+  },
+  {
+    "Year": "2000",
+    "State": "CHANDIGARH",
+    "Crop": "Wheat",
+    "Values": "3375"
+  },
+  {
+    "Year": "2000",
+    "State": "CHHATTISGARH",
+    "Crop": "Rice",
+    "Values": "2369295"
+  },
+  {
+    "Year": "2000",
+    "State": "CHHATTISGARH",
+    "Crop": "Sugarcane",
+    "Values": "8628"
+  },
+  {
+    "Year": "2000",
+    "State": "CHHATTISGARH",
+    "Crop": "Wheat",
+    "Values": "79488"
+  },
+  {
+    "Year": "2000",
+    "State": "D & N HAVELI",
+    "Crop": "Rice",
+    "Values": "28663"
+  },
+  {
+    "Year": "2000",
+    "State": "D & N HAVELI",
+    "Crop": "Sugarcane",
+    "Values": "92430"
+  },
+  {
+    "Year": "2000",
+    "State": "D & N HAVELI",
+    "Crop": "Wheat",
+    "Values": "1500"
+  },
+  {
+    "Year": "2000",
+    "State": "DELHI",
+    "Crop": "Rice",
+    "Values": "11420"
+  },
+  {
+    "Year": "2000",
+    "State": "DELHI",
+    "Crop": "Sugarcane",
+    "Values": "2"
+  },
+  {
+    "Year": "2000",
+    "State": "DELHI",
+    "Crop": "Wheat",
+    "Values": "97927"
+  },
+  {
+    "Year": "2000",
+    "State": "GOA",
+    "Crop": "Rice",
+    "Values": "142123"
+  },
+  {
+    "Year": "2000",
+    "State": "GUJARAT",
+    "Crop": "Rice",
+    "Values": "472600"
+  },
+  {
+    "Year": "2000",
+    "State": "GUJARAT",
+    "Crop": "Sugarcane",
+    "Values": "12689000"
+  },
+  {
+    "Year": "2000",
+    "State": "GUJARAT",
+    "Crop": "Wheat",
+    "Values": "649000"
+  },
+  {
+    "Year": "2000",
+    "State": "HARYANA",
+    "Crop": "Rice",
+    "Values": "2695000"
+  },
+  {
+    "Year": "2000",
+    "State": "HARYANA",
+    "Crop": "Sugarcane",
+    "Values": "8170100"
+  },
+  {
+    "Year": "2000",
+    "State": "HARYANA",
+    "Crop": "Wheat",
+    "Values": "9669000"
+  },
+  {
+    "Year": "2000",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "124893"
+  },
+  {
+    "Year": "2000",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "7854"
+  },
+  {
+    "Year": "2000",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "261319"
+  },
+  {
+    "Year": "2000",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Rice",
+    "Values": "12414"
+  },
+  {
+    "Year": "2000",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Sugarcane",
+    "Values": "417"
+  },
+  {
+    "Year": "2000",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Wheat",
+    "Values": "148710"
+  },
+  {
+    "Year": "2000",
+    "State": "KARNATAKA",
+    "Crop": "Rice",
+    "Values": "3846736"
+  },
+  {
+    "Year": "2000",
+    "State": "KARNATAKA",
+    "Crop": "Sugarcane",
+    "Values": "42923496"
+  },
+  {
+    "Year": "2000",
+    "State": "KARNATAKA",
+    "Crop": "Wheat",
+    "Values": "249880"
+  },
+  {
+    "Year": "2000",
+    "State": "KERALA",
+    "Crop": "Rice",
+    "Values": "751340"
+  },
+  {
+    "Year": "2000",
+    "State": "KERALA",
+    "Crop": "Sugarcane",
+    "Values": "275550"
+  },
+  {
+    "Year": "2000",
+    "State": "MADHYA PRADESH",
+    "Crop": "Rice",
+    "Values": "975274"
+  },
+  {
+    "Year": "2000",
+    "State": "MADHYA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "1656840"
+  },
+  {
+    "Year": "2000",
+    "State": "MADHYA PRADESH",
+    "Crop": "Wheat",
+    "Values": "4861992"
+  },
+  {
+    "Year": "2000",
+    "State": "MAHARASHTRA",
+    "Crop": "Rice",
+    "Values": "1929700"
+  },
+  {
+    "Year": "2000",
+    "State": "MAHARASHTRA",
+    "Crop": "Sugarcane",
+    "Values": "49568700"
+  },
+  {
+    "Year": "2000",
+    "State": "MAHARASHTRA",
+    "Crop": "Wheat",
+    "Values": "947600"
+  },
+  {
+    "Year": "2000",
+    "State": "MANIPUR",
+    "Crop": "Rice",
+    "Values": "381750"
+  },
+  {
+    "Year": "2000",
+    "State": "MANIPUR",
+    "Crop": "Sugarcane",
+    "Values": "24170"
+  },
+  {
+    "Year": "2000",
+    "State": "MEGHALYA",
+    "Crop": "Rice",
+    "Values": "179042"
+  },
+  {
+    "Year": "2000",
+    "State": "MEGHALYA",
+    "Crop": "Sugarcane",
+    "Values": "237"
+  },
+  {
+    "Year": "2000",
+    "State": "MEGHALYA",
+    "Crop": "Wheat",
+    "Values": "6892"
+  },
+  {
+    "Year": "2000",
+    "State": "MIZORAM",
+    "Crop": "Rice",
+    "Values": "103673"
+  },
+  {
+    "Year": "2000",
+    "State": "MIZORAM",
+    "Crop": "Sugarcane",
+    "Values": "6361"
+  },
+  {
+    "Year": "2000",
+    "State": "NAGALAND",
+    "Crop": "Rice",
+    "Values": "233330"
+  },
+  {
+    "Year": "2000",
+    "State": "NAGALAND",
+    "Crop": "Sugarcane",
+    "Values": "35000"
+  },
+  {
+    "Year": "2000",
+    "State": "NAGALAND",
+    "Crop": "Wheat",
+    "Values": "10000"
+  },
+  {
+    "Year": "2000",
+    "State": "ORISSA",
+    "Crop": "Rice",
+    "Values": "4613380"
+  },
+  {
+    "Year": "2000",
+    "State": "ORISSA",
+    "Crop": "Sugarcane",
+    "Values": "201956"
+  },
+  {
+    "Year": "2000",
+    "State": "ORISSA",
+    "Crop": "Wheat",
+    "Values": "266"
+  },
+  {
+    "Year": "2000",
+    "State": "PONDICHERRY",
+    "Crop": "Rice",
+    "Values": "103606"
+  },
+  {
+    "Year": "2000",
+    "State": "PONDICHERRY",
+    "Crop": "Sugarcane",
+    "Values": "200413"
+  },
+  {
+    "Year": "2000",
+    "State": "PUNJAB",
+    "Crop": "Rice",
+    "Values": "9154000"
+  },
+  {
+    "Year": "2000",
+    "State": "PUNJAB",
+    "Crop": "Sugarcane",
+    "Values": "7770000"
+  },
+  {
+    "Year": "2000",
+    "State": "PUNJAB",
+    "Crop": "Wheat",
+    "Values": "15551000"
+  },
+  {
+    "Year": "2000",
+    "State": "RAJASTHAN",
+    "Crop": "Rice",
+    "Values": "155716"
+  },
+  {
+    "Year": "2000",
+    "State": "RAJASTHAN",
+    "Crop": "Sugarcane",
+    "Values": "561338"
+  },
+  {
+    "Year": "2000",
+    "State": "RAJASTHAN",
+    "Crop": "Wheat",
+    "Values": "5547100"
+  },
+  {
+    "Year": "2000",
+    "State": "SIKKIM",
+    "Crop": "Rice",
+    "Values": "21358"
+  },
+  {
+    "Year": "2000",
+    "State": "SIKKIM",
+    "Crop": "Wheat",
+    "Values": "10103"
+  },
+  {
+    "Year": "2000",
+    "State": "TAMIL NADU",
+    "Crop": "Rice",
+    "Values": "7366420"
+  },
+  {
+    "Year": "2000",
+    "State": "TAMIL NADU",
+    "Crop": "Sugarcane",
+    "Values": "34690100"
+  },
+  {
+    "Year": "2000",
+    "State": "TAMIL NADU",
+    "Crop": "Wheat",
+    "Values": "60"
+  },
+  {
+    "Year": "2000",
+    "State": "TRIPURA",
+    "Crop": "Rice",
+    "Values": "547520"
+  },
+  {
+    "Year": "2000",
+    "State": "TRIPURA",
+    "Crop": "Sugarcane",
+    "Values": "54100"
+  },
+  {
+    "Year": "2000",
+    "State": "TRIPURA",
+    "Crop": "Wheat",
+    "Values": "2230"
+  },
+  {
+    "Year": "2000",
+    "State": "UTTAR PRADESH",
+    "Crop": "Rice",
+    "Values": "11679149"
+  },
+  {
+    "Year": "2000",
+    "State": "UTTAR PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "106067503"
+  },
+  {
+    "Year": "2000",
+    "State": "UTTAR PRADESH",
+    "Crop": "Wheat",
+    "Values": "25168332"
+  },
+  {
+    "Year": "2000",
+    "State": "UTTARANCHAL",
+    "Crop": "Rice",
+    "Values": "588652"
+  },
+  {
+    "Year": "2000",
+    "State": "UTTARANCHAL",
+    "Crop": "Sugarcane",
+    "Values": "6831440"
+  },
+  {
+    "Year": "2000",
+    "State": "UTTARANCHAL",
+    "Crop": "Wheat",
+    "Values": "711036"
+  },
+  {
+    "Year": "2000",
+    "State": "WEST BENGAL",
+    "Crop": "Rice",
+    "Values": "12428038"
+  },
+  {
+    "Year": "2000",
+    "State": "WEST BENGAL",
+    "Crop": "Sugarcane",
+    "Values": "1465550"
+  },
+  {
+    "Year": "2000",
+    "State": "WEST BENGAL",
+    "Crop": "Wheat",
+    "Values": "1057610"
+  },
+  {
+    "Year": "2001",
+    "State": "A & N ISLANDS",
+    "Crop": "Rice",
+    "Values": "27333"
+  },
+  {
+    "Year": "2001",
+    "State": "A & N ISLANDS",
+    "Crop": "Sugarcane",
+    "Values": "2380"
+  },
+  {
+    "Year": "2001",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Rice",
+    "Values": "11389791"
+  },
+  {
+    "Year": "2001",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "18081889"
+  },
+  {
+    "Year": "2001",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Wheat",
+    "Values": "9486"
+  },
+  {
+    "Year": "2001",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "134621"
+  },
+  {
+    "Year": "2001",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "18920"
+  },
+  {
+    "Year": "2001",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "5341"
+  },
+  {
+    "Year": "2001",
+    "State": "ASSAM",
+    "Crop": "Rice",
+    "Values": "3854438"
+  },
+  {
+    "Year": "2001",
+    "State": "ASSAM",
+    "Crop": "Sugarcane",
+    "Values": "1011398"
+  },
+  {
+    "Year": "2001",
+    "State": "ASSAM",
+    "Crop": "Wheat",
+    "Values": "85300"
+  },
+  {
+    "Year": "2001",
+    "State": "BIHAR",
+    "Crop": "Rice",
+    "Values": "5301221"
+  },
+  {
+    "Year": "2001",
+    "State": "BIHAR",
+    "Crop": "Sugarcane",
+    "Values": "5818262"
+  },
+  {
+    "Year": "2001",
+    "State": "BIHAR",
+    "Crop": "Wheat",
+    "Values": "4499130"
+  },
+  {
+    "Year": "2001",
+    "State": "CHANDIGARH",
+    "Crop": "Rice",
+    "Values": "250"
+  },
+  {
+    "Year": "2001",
+    "State": "CHANDIGARH",
+    "Crop": "Wheat",
+    "Values": "3350"
+  },
+  {
+    "Year": "2001",
+    "State": "CHHATTISGARH",
+    "Crop": "Rice",
+    "Values": "5073721"
+  },
+  {
+    "Year": "2001",
+    "State": "CHHATTISGARH",
+    "Crop": "Sugarcane",
+    "Values": "9046"
+  },
+  {
+    "Year": "2001",
+    "State": "CHHATTISGARH",
+    "Crop": "Wheat",
+    "Values": "103480"
+  },
+  {
+    "Year": "2001",
+    "State": "D & N HAVELI",
+    "Crop": "Rice",
+    "Values": "31035"
+  },
+  {
+    "Year": "2001",
+    "State": "D & N HAVELI",
+    "Crop": "Sugarcane",
+    "Values": "89110"
+  },
+  {
+    "Year": "2001",
+    "State": "D & N HAVELI",
+    "Crop": "Wheat",
+    "Values": "1441"
+  },
+  {
+    "Year": "2001",
+    "State": "DELHI",
+    "Crop": "Rice",
+    "Values": "12063"
+  },
+  {
+    "Year": "2001",
+    "State": "DELHI",
+    "Crop": "Sugarcane",
+    "Values": "200"
+  },
+  {
+    "Year": "2001",
+    "State": "DELHI",
+    "Crop": "Wheat",
+    "Values": "91660"
+  },
+  {
+    "Year": "2001",
+    "State": "GOA",
+    "Crop": "Rice",
+    "Values": "126523"
+  },
+  {
+    "Year": "2001",
+    "State": "GUJARAT",
+    "Crop": "Rice",
+    "Values": "1028700"
+  },
+  {
+    "Year": "2001",
+    "State": "GUJARAT",
+    "Crop": "Sugarcane",
+    "Values": "12458000"
+  },
+  {
+    "Year": "2001",
+    "State": "GUJARAT",
+    "Crop": "Wheat",
+    "Values": "1144700"
+  },
+  {
+    "Year": "2001",
+    "State": "HARYANA",
+    "Crop": "Rice",
+    "Values": "2726000"
+  },
+  {
+    "Year": "2001",
+    "State": "HARYANA",
+    "Crop": "Sugarcane",
+    "Values": "9270000"
+  },
+  {
+    "Year": "2001",
+    "State": "HARYANA",
+    "Crop": "Wheat",
+    "Values": "9437000"
+  },
+  {
+    "Year": "2001",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "137418"
+  },
+  {
+    "Year": "2001",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "11219"
+  },
+  {
+    "Year": "2001",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "637068"
+  },
+  {
+    "Year": "2001",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Rice",
+    "Values": "422298"
+  },
+  {
+    "Year": "2001",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Sugarcane",
+    "Values": "436"
+  },
+  {
+    "Year": "2001",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Wheat",
+    "Values": "342980"
+  },
+  {
+    "Year": "2001",
+    "State": "KARNATAKA",
+    "Crop": "Rice",
+    "Values": "3234045"
+  },
+  {
+    "Year": "2001",
+    "State": "KARNATAKA",
+    "Crop": "Sugarcane",
+    "Values": "33016618"
+  },
+  {
+    "Year": "2001",
+    "State": "KARNATAKA",
+    "Crop": "Wheat",
+    "Values": "198822"
+  },
+  {
+    "Year": "2001",
+    "State": "KERALA",
+    "Crop": "Rice",
+    "Values": "710839"
+  },
+  {
+    "Year": "2001",
+    "State": "KERALA",
+    "Crop": "Sugarcane",
+    "Values": "269780"
+  },
+  {
+    "Year": "2001",
+    "State": "MADHYA PRADESH",
+    "Crop": "Rice",
+    "Values": "1685799"
+  },
+  {
+    "Year": "2001",
+    "State": "MADHYA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "1612840"
+  },
+  {
+    "Year": "2001",
+    "State": "MADHYA PRADESH",
+    "Crop": "Wheat",
+    "Values": "5993596"
+  },
+  {
+    "Year": "2001",
+    "State": "MAHARASHTRA",
+    "Crop": "Rice",
+    "Values": "2651200"
+  },
+  {
+    "Year": "2001",
+    "State": "MAHARASHTRA",
+    "Crop": "Sugarcane",
+    "Values": "45139800"
+  },
+  {
+    "Year": "2001",
+    "State": "MAHARASHTRA",
+    "Crop": "Wheat",
+    "Values": "1077400"
+  },
+  {
+    "Year": "2001",
+    "State": "MANIPUR",
+    "Crop": "Rice",
+    "Values": "387270"
+  },
+  {
+    "Year": "2001",
+    "State": "MEGHALYA",
+    "Crop": "Rice",
+    "Values": "188971"
+  },
+  {
+    "Year": "2001",
+    "State": "MEGHALYA",
+    "Crop": "Sugarcane",
+    "Values": "226"
+  },
+  {
+    "Year": "2001",
+    "State": "MEGHALYA",
+    "Crop": "Wheat",
+    "Values": "4812"
+  },
+  {
+    "Year": "2001",
+    "State": "MIZORAM",
+    "Crop": "Rice",
+    "Values": "105713"
+  },
+  {
+    "Year": "2001",
+    "State": "MIZORAM",
+    "Crop": "Sugarcane",
+    "Values": "9359"
+  },
+  {
+    "Year": "2001",
+    "State": "NAGALAND",
+    "Crop": "Rice",
+    "Values": "237000"
+  },
+  {
+    "Year": "2001",
+    "State": "NAGALAND",
+    "Crop": "Sugarcane",
+    "Values": "48000"
+  },
+  {
+    "Year": "2001",
+    "State": "NAGALAND",
+    "Crop": "Wheat",
+    "Values": "12350"
+  },
+  {
+    "Year": "2001",
+    "State": "ORISSA",
+    "Crop": "Rice",
+    "Values": "7148460"
+  },
+  {
+    "Year": "2001",
+    "State": "ORISSA",
+    "Crop": "Sugarcane",
+    "Values": "29323"
+  },
+  {
+    "Year": "2001",
+    "State": "ORISSA",
+    "Crop": "Wheat",
+    "Values": "51"
+  },
+  {
+    "Year": "2001",
+    "State": "PONDICHERRY",
+    "Crop": "Rice",
+    "Values": "66868"
+  },
+  {
+    "Year": "2001",
+    "State": "PONDICHERRY",
+    "Crop": "Sugarcane",
+    "Values": "197412"
+  },
+  {
+    "Year": "2001",
+    "State": "PUNJAB",
+    "Crop": "Rice",
+    "Values": "8816000"
+  },
+  {
+    "Year": "2001",
+    "State": "PUNJAB",
+    "Crop": "Sugarcane",
+    "Values": "9250000"
+  },
+  {
+    "Year": "2001",
+    "State": "PUNJAB",
+    "Crop": "Wheat",
+    "Values": "15499000"
+  },
+  {
+    "Year": "2001",
+    "State": "RAJASTHAN",
+    "Crop": "Rice",
+    "Values": "180048"
+  },
+  {
+    "Year": "2001",
+    "State": "RAJASTHAN",
+    "Crop": "Sugarcane",
+    "Values": "432127"
+  },
+  {
+    "Year": "2001",
+    "State": "RAJASTHAN",
+    "Crop": "Wheat",
+    "Values": "6389030"
+  },
+  {
+    "Year": "2001",
+    "State": "SIKKIM",
+    "Crop": "Rice",
+    "Values": "21372"
+  },
+  {
+    "Year": "2001",
+    "State": "SIKKIM",
+    "Crop": "Wheat",
+    "Values": "10485"
+  },
+  {
+    "Year": "2001",
+    "State": "TAMIL NADU",
+    "Crop": "Rice",
+    "Values": "6583630"
+  },
+  {
+    "Year": "2001",
+    "State": "TAMIL NADU",
+    "Crop": "Sugarcane",
+    "Values": "32614900"
+  },
+  {
+    "Year": "2001",
+    "State": "TRIPURA",
+    "Crop": "Rice",
+    "Values": "587390"
+  },
+  {
+    "Year": "2001",
+    "State": "TRIPURA",
+    "Crop": "Sugarcane",
+    "Values": "52700"
+  },
+  {
+    "Year": "2001",
+    "State": "TRIPURA",
+    "Crop": "Wheat",
+    "Values": "2455"
+  },
+  {
+    "Year": "2001",
+    "State": "UTTAR PRADESH",
+    "Crop": "Rice",
+    "Values": "12855857"
+  },
+  {
+    "Year": "2001",
+    "State": "UTTAR PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "117981573"
+  },
+  {
+    "Year": "2001",
+    "State": "UTTAR PRADESH",
+    "Crop": "Wheat",
+    "Values": "25498002"
+  },
+  {
+    "Year": "2001",
+    "State": "UTTARANCHAL",
+    "Crop": "Rice",
+    "Values": "579517"
+  },
+  {
+    "Year": "2001",
+    "State": "UTTARANCHAL",
+    "Crop": "Sugarcane",
+    "Values": "6958951"
+  },
+  {
+    "Year": "2001",
+    "State": "UTTARANCHAL",
+    "Crop": "Wheat",
+    "Values": "721618"
+  },
+  {
+    "Year": "2001",
+    "State": "WEST BENGAL",
+    "Crop": "Rice",
+    "Values": "13815548"
+  },
+  {
+    "Year": "2001",
+    "State": "WEST BENGAL",
+    "Crop": "Sugarcane",
+    "Values": "1983369"
+  },
+  {
+    "Year": "2001",
+    "State": "WEST BENGAL",
+    "Crop": "Wheat",
+    "Values": "963599"
+  },
+  {
+    "Year": "2002",
+    "State": "A & N ISLANDS",
+    "Crop": "Sugarcane",
+    "Values": "13800"
+  },
+  {
+    "Year": "2002",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Rice",
+    "Values": "7327000"
+  },
+  {
+    "Year": "2002",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "15387218"
+  },
+  {
+    "Year": "2002",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Wheat",
+    "Values": "14000"
+  },
+  {
+    "Year": "2002",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "131560"
+  },
+  {
+    "Year": "2002",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "13074"
+  },
+  {
+    "Year": "2002",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "5979"
+  },
+  {
+    "Year": "2002",
+    "State": "ASSAM",
+    "Crop": "Rice",
+    "Values": "3737802"
+  },
+  {
+    "Year": "2002",
+    "State": "ASSAM",
+    "Crop": "Sugarcane",
+    "Values": "916076"
+  },
+  {
+    "Year": "2002",
+    "State": "ASSAM",
+    "Crop": "Wheat",
+    "Values": "77952"
+  },
+  {
+    "Year": "2002",
+    "State": "BIHAR",
+    "Crop": "Rice",
+    "Values": "5085567"
+  },
+  {
+    "Year": "2002",
+    "State": "BIHAR",
+    "Crop": "Sugarcane",
+    "Values": "4520510"
+  },
+  {
+    "Year": "2002",
+    "State": "BIHAR",
+    "Crop": "Wheat",
+    "Values": "4040610"
+  },
+  {
+    "Year": "2002",
+    "State": "CHANDIGARH",
+    "Crop": "Rice",
+    "Values": "700"
+  },
+  {
+    "Year": "2002",
+    "State": "CHANDIGARH",
+    "Crop": "Wheat",
+    "Values": "3315"
+  },
+  {
+    "Year": "2002",
+    "State": "CHHATTISGARH",
+    "Crop": "Rice",
+    "Values": "2634853"
+  },
+  {
+    "Year": "2002",
+    "State": "CHHATTISGARH",
+    "Crop": "Sugarcane",
+    "Values": "9967"
+  },
+  {
+    "Year": "2002",
+    "State": "CHHATTISGARH",
+    "Crop": "Wheat",
+    "Values": "98592"
+  },
+  {
+    "Year": "2002",
+    "State": "D & N HAVELI",
+    "Crop": "Rice",
+    "Values": "38321"
+  },
+  {
+    "Year": "2002",
+    "State": "D & N HAVELI",
+    "Crop": "Sugarcane",
+    "Values": "122960"
+  },
+  {
+    "Year": "2002",
+    "State": "D & N HAVELI",
+    "Crop": "Wheat",
+    "Values": "1470"
+  },
+  {
+    "Year": "2002",
+    "State": "DELHI",
+    "Crop": "Rice",
+    "Values": "12907"
+  },
+  {
+    "Year": "2002",
+    "State": "DELHI",
+    "Crop": "Sugarcane",
+    "Values": "340"
+  },
+  {
+    "Year": "2002",
+    "State": "DELHI",
+    "Crop": "Wheat",
+    "Values": "79718"
+  },
+  {
+    "Year": "2002",
+    "State": "GOA",
+    "Crop": "Rice",
+    "Values": "134767"
+  },
+  {
+    "Year": "2002",
+    "State": "GUJARAT",
+    "Crop": "Rice",
+    "Values": "541700"
+  },
+  {
+    "Year": "2002",
+    "State": "GUJARAT",
+    "Crop": "Sugarcane",
+    "Values": "14069000"
+  },
+  {
+    "Year": "2002",
+    "State": "GUJARAT",
+    "Crop": "Wheat",
+    "Values": "856600"
+  },
+  {
+    "Year": "2002",
+    "State": "HARYANA",
+    "Crop": "Rice",
+    "Values": "2468000"
+  },
+  {
+    "Year": "2002",
+    "State": "HARYANA",
+    "Crop": "Sugarcane",
+    "Values": "10650000"
+  },
+  {
+    "Year": "2002",
+    "State": "HARYANA",
+    "Crop": "Wheat",
+    "Values": "9188000"
+  },
+  {
+    "Year": "2002",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "85653"
+  },
+  {
+    "Year": "2002",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "4649"
+  },
+  {
+    "Year": "2002",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "495558"
+  },
+  {
+    "Year": "2002",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Rice",
+    "Values": "421457"
+  },
+  {
+    "Year": "2002",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Sugarcane",
+    "Values": "475"
+  },
+  {
+    "Year": "2002",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Wheat",
+    "Values": "405490"
+  },
+  {
+    "Year": "2002",
+    "State": "KARNATAKA",
+    "Crop": "Rice",
+    "Values": "2390085"
+  },
+  {
+    "Year": "2002",
+    "State": "KARNATAKA",
+    "Crop": "Sugarcane",
+    "Values": "32485308"
+  },
+  {
+    "Year": "2002",
+    "State": "KARNATAKA",
+    "Crop": "Wheat",
+    "Values": "147748"
+  },
+  {
+    "Year": "2002",
+    "State": "KERALA",
+    "Crop": "Rice",
+    "Values": "688859"
+  },
+  {
+    "Year": "2002",
+    "State": "KERALA",
+    "Crop": "Sugarcane",
+    "Values": "312830"
+  },
+  {
+    "Year": "2002",
+    "State": "MADHYA PRADESH",
+    "Crop": "Rice",
+    "Values": "1024930"
+  },
+  {
+    "Year": "2002",
+    "State": "MADHYA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "1560420"
+  },
+  {
+    "Year": "2002",
+    "State": "MADHYA PRADESH",
+    "Crop": "Wheat",
+    "Values": "4916044"
+  },
+  {
+    "Year": "2002",
+    "State": "MAHARASHTRA",
+    "Crop": "Rice",
+    "Values": "1854100"
+  },
+  {
+    "Year": "2002",
+    "State": "MAHARASHTRA",
+    "Crop": "Sugarcane",
+    "Values": "42617000"
+  },
+  {
+    "Year": "2002",
+    "State": "MAHARASHTRA",
+    "Crop": "Wheat",
+    "Values": "983900"
+  },
+  {
+    "Year": "2002",
+    "State": "MANIPUR",
+    "Crop": "Rice",
+    "Values": "335700"
+  },
+  {
+    "Year": "2002",
+    "State": "MANIPUR",
+    "Crop": "Sugarcane",
+    "Values": "10450"
+  },
+  {
+    "Year": "2002",
+    "State": "MEGHALYA",
+    "Crop": "Rice",
+    "Values": "190937"
+  },
+  {
+    "Year": "2002",
+    "State": "MEGHALYA",
+    "Crop": "Sugarcane",
+    "Values": "219"
+  },
+  {
+    "Year": "2002",
+    "State": "MEGHALYA",
+    "Crop": "Wheat",
+    "Values": "4745"
+  },
+  {
+    "Year": "2002",
+    "State": "MIZORAM",
+    "Crop": "Rice",
+    "Values": "109205"
+  },
+  {
+    "Year": "2002",
+    "State": "MIZORAM",
+    "Crop": "Sugarcane",
+    "Values": "7443"
+  },
+  {
+    "Year": "2002",
+    "State": "NAGALAND",
+    "Crop": "Rice",
+    "Values": "223400"
+  },
+  {
+    "Year": "2002",
+    "State": "NAGALAND",
+    "Crop": "Sugarcane",
+    "Values": "80000"
+  },
+  {
+    "Year": "2002",
+    "State": "NAGALAND",
+    "Crop": "Wheat",
+    "Values": "15820"
+  },
+  {
+    "Year": "2002",
+    "State": "ORISSA",
+    "Crop": "Rice",
+    "Values": "3243900"
+  },
+  {
+    "Year": "2002",
+    "State": "ORISSA",
+    "Crop": "Sugarcane",
+    "Values": "48636"
+  },
+  {
+    "Year": "2002",
+    "State": "ORISSA",
+    "Crop": "Wheat",
+    "Values": "137"
+  },
+  {
+    "Year": "2002",
+    "State": "PONDICHERRY",
+    "Crop": "Rice",
+    "Values": "57514"
+  },
+  {
+    "Year": "2002",
+    "State": "PONDICHERRY",
+    "Crop": "Sugarcane",
+    "Values": "209496"
+  },
+  {
+    "Year": "2002",
+    "State": "PUNJAB",
+    "Crop": "Rice",
+    "Values": "8880000"
+  },
+  {
+    "Year": "2002",
+    "State": "PUNJAB",
+    "Crop": "Sugarcane",
+    "Values": "9110000"
+  },
+  {
+    "Year": "2002",
+    "State": "PUNJAB",
+    "Crop": "Wheat",
+    "Values": "14175000"
+  },
+  {
+    "Year": "2002",
+    "State": "RAJASTHAN",
+    "Crop": "Rice",
+    "Values": "67932"
+  },
+  {
+    "Year": "2002",
+    "State": "RAJASTHAN",
+    "Crop": "Sugarcane",
+    "Values": "421716"
+  },
+  {
+    "Year": "2002",
+    "State": "RAJASTHAN",
+    "Crop": "Wheat",
+    "Values": "4878020"
+  },
+  {
+    "Year": "2002",
+    "State": "SIKKIM",
+    "Crop": "Rice",
+    "Values": "21220"
+  },
+  {
+    "Year": "2002",
+    "State": "SIKKIM",
+    "Crop": "Wheat",
+    "Values": "10400"
+  },
+  {
+    "Year": "2002",
+    "State": "TAMIL NADU",
+    "Crop": "Rice",
+    "Values": "3577108"
+  },
+  {
+    "Year": "2002",
+    "State": "TAMIL NADU",
+    "Crop": "Sugarcane",
+    "Values": "24165390"
+  },
+  {
+    "Year": "2002",
+    "State": "TAMIL NADU",
+    "Crop": "Wheat",
+    "Values": "0"
+  },
+  {
+    "Year": "2002",
+    "State": "TRIPURA",
+    "Crop": "Rice",
+    "Values": "602410"
+  },
+  {
+    "Year": "2002",
+    "State": "TRIPURA",
+    "Crop": "Sugarcane",
+    "Values": "56203"
+  },
+  {
+    "Year": "2002",
+    "State": "TRIPURA",
+    "Crop": "Wheat",
+    "Values": "1827"
+  },
+  {
+    "Year": "2002",
+    "State": "UTTAR PRADESH",
+    "Crop": "Rice",
+    "Values": "9596346"
+  },
+  {
+    "Year": "2002",
+    "State": "UTTAR PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "120948041"
+  },
+  {
+    "Year": "2002",
+    "State": "UTTAR PRADESH",
+    "Crop": "Wheat",
+    "Values": "23745162"
+  },
+  {
+    "Year": "2002",
+    "State": "UTTARANCHAL",
+    "Crop": "Rice",
+    "Values": "523175"
+  },
+  {
+    "Year": "2002",
+    "State": "UTTARANCHAL",
+    "Crop": "Sugarcane",
+    "Values": "7362658"
+  },
+  {
+    "Year": "2002",
+    "State": "UTTARANCHAL",
+    "Crop": "Wheat",
+    "Values": "721653"
+  },
+  {
+    "Year": "2002",
+    "State": "WEST BENGAL",
+    "Crop": "Rice",
+    "Values": "14073099"
+  },
+  {
+    "Year": "2002",
+    "State": "WEST BENGAL",
+    "Crop": "Sugarcane",
+    "Values": "1439139"
+  },
+  {
+    "Year": "2002",
+    "State": "WEST BENGAL",
+    "Crop": "Wheat",
+    "Values": "904839"
+  },
+  {
+    "Year": "2003",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Rice",
+    "Values": "8953000"
+  },
+  {
+    "Year": "2003",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "15069824"
+  },
+  {
+    "Year": "2003",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Wheat",
+    "Values": "7000"
+  },
+  {
+    "Year": "2003",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "154589"
+  },
+  {
+    "Year": "2003",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "15150"
+  },
+  {
+    "Year": "2003",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "6320"
+  },
+  {
+    "Year": "2003",
+    "State": "ASSAM",
+    "Crop": "Rice",
+    "Values": "3880934"
+  },
+  {
+    "Year": "2003",
+    "State": "ASSAM",
+    "Crop": "Sugarcane",
+    "Values": "981360"
+  },
+  {
+    "Year": "2003",
+    "State": "ASSAM",
+    "Crop": "Wheat",
+    "Values": "73186"
+  },
+  {
+    "Year": "2003",
+    "State": "BIHAR",
+    "Crop": "Rice",
+    "Values": "5718627"
+  },
+  {
+    "Year": "2003",
+    "State": "BIHAR",
+    "Crop": "Sugarcane",
+    "Values": "4325750"
+  },
+  {
+    "Year": "2003",
+    "State": "BIHAR",
+    "Crop": "Wheat",
+    "Values": "3688941"
+  },
+  {
+    "Year": "2003",
+    "State": "CHANDIGARH",
+    "Crop": "Rice",
+    "Values": "500"
+  },
+  {
+    "Year": "2003",
+    "State": "CHANDIGARH",
+    "Crop": "Wheat",
+    "Values": "3000"
+  },
+  {
+    "Year": "2003",
+    "State": "CHHATTISGARH",
+    "Crop": "Rice",
+    "Values": "5567644"
+  },
+  {
+    "Year": "2003",
+    "State": "CHHATTISGARH",
+    "Crop": "Sugarcane",
+    "Values": "13290"
+  },
+  {
+    "Year": "2003",
+    "State": "CHHATTISGARH",
+    "Crop": "Wheat",
+    "Values": "113138"
+  },
+  {
+    "Year": "2003",
+    "State": "D & N HAVELI",
+    "Crop": "Rice",
+    "Values": "27933"
+  },
+  {
+    "Year": "2003",
+    "State": "D & N HAVELI",
+    "Crop": "Sugarcane",
+    "Values": "96375"
+  },
+  {
+    "Year": "2003",
+    "State": "D & N HAVELI",
+    "Crop": "Wheat",
+    "Values": "1470"
+  },
+  {
+    "Year": "2003",
+    "State": "DELHI",
+    "Crop": "Rice",
+    "Values": "17909"
+  },
+  {
+    "Year": "2003",
+    "State": "DELHI",
+    "Crop": "Sugarcane",
+    "Values": "293"
+  },
+  {
+    "Year": "2003",
+    "State": "DELHI",
+    "Crop": "Wheat",
+    "Values": "82893"
+  },
+  {
+    "Year": "2003",
+    "State": "GOA",
+    "Crop": "Rice",
+    "Values": "170661"
+  },
+  {
+    "Year": "2003",
+    "State": "GUJARAT",
+    "Crop": "Rice",
+    "Values": "1277000"
+  },
+  {
+    "Year": "2003",
+    "State": "GUJARAT",
+    "Crop": "Sugarcane",
+    "Values": "12669000"
+  },
+  {
+    "Year": "2003",
+    "State": "GUJARAT",
+    "Crop": "Wheat",
+    "Values": "2036500"
+  },
+  {
+    "Year": "2003",
+    "State": "HARYANA",
+    "Crop": "Rice",
+    "Values": "2790000"
+  },
+  {
+    "Year": "2003",
+    "State": "HARYANA",
+    "Crop": "Sugarcane",
+    "Values": "9280000"
+  },
+  {
+    "Year": "2003",
+    "State": "HARYANA",
+    "Crop": "Wheat",
+    "Values": "9114000"
+  },
+  {
+    "Year": "2003",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "120624"
+  },
+  {
+    "Year": "2003",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "496930"
+  },
+  {
+    "Year": "2003",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Rice",
+    "Values": "504797"
+  },
+  {
+    "Year": "2003",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Sugarcane",
+    "Values": "567"
+  },
+  {
+    "Year": "2003",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Wheat",
+    "Values": "459380"
+  },
+  {
+    "Year": "2003",
+    "State": "JHARKHAND",
+    "Crop": "Rice",
+    "Values": "158468"
+  },
+  {
+    "Year": "2003",
+    "State": "JHARKHAND",
+    "Crop": "Wheat",
+    "Values": "2026"
+  },
+  {
+    "Year": "2003",
+    "State": "KARNATAKA",
+    "Crop": "Rice",
+    "Values": "2550399"
+  },
+  {
+    "Year": "2003",
+    "State": "KARNATAKA",
+    "Crop": "Sugarcane",
+    "Values": "16015440"
+  },
+  {
+    "Year": "2003",
+    "State": "KARNATAKA",
+    "Crop": "Wheat",
+    "Values": "96150"
+  },
+  {
+    "Year": "2003",
+    "State": "KERALA",
+    "Crop": "Rice",
+    "Values": "570045"
+  },
+  {
+    "Year": "2003",
+    "State": "KERALA",
+    "Crop": "Sugarcane",
+    "Values": "290980"
+  },
+  {
+    "Year": "2003",
+    "State": "MADHYA PRADESH",
+    "Crop": "Rice",
+    "Values": "1743430"
+  },
+  {
+    "Year": "2003",
+    "State": "MADHYA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "1870120"
+  },
+  {
+    "Year": "2003",
+    "State": "MADHYA PRADESH",
+    "Crop": "Wheat",
+    "Values": "7357255"
+  },
+  {
+    "Year": "2003",
+    "State": "MAHARASHTRA",
+    "Crop": "Rice",
+    "Values": "2834100"
+  },
+  {
+    "Year": "2003",
+    "State": "MAHARASHTRA",
+    "Crop": "Sugarcane",
+    "Values": "25668400"
+  },
+  {
+    "Year": "2003",
+    "State": "MAHARASHTRA",
+    "Crop": "Wheat",
+    "Values": "778200"
+  },
+  {
+    "Year": "2003",
+    "State": "MANIPUR",
+    "Crop": "Rice",
+    "Values": "381240"
+  },
+  {
+    "Year": "2003",
+    "State": "MANIPUR",
+    "Crop": "Sugarcane",
+    "Values": "10780"
+  },
+  {
+    "Year": "2003",
+    "State": "MEGHALYA",
+    "Crop": "Rice",
+    "Values": "200703"
+  },
+  {
+    "Year": "2003",
+    "State": "MEGHALYA",
+    "Crop": "Sugarcane",
+    "Values": "228"
+  },
+  {
+    "Year": "2003",
+    "State": "MEGHALYA",
+    "Crop": "Wheat",
+    "Values": "1540"
+  },
+  {
+    "Year": "2003",
+    "State": "MIZORAM",
+    "Crop": "Rice",
+    "Values": "114630"
+  },
+  {
+    "Year": "2003",
+    "State": "MIZORAM",
+    "Crop": "Sugarcane",
+    "Values": "36174"
+  },
+  {
+    "Year": "2003",
+    "State": "NAGALAND",
+    "Crop": "Rice",
+    "Values": "222990"
+  },
+  {
+    "Year": "2003",
+    "State": "NAGALAND",
+    "Crop": "Sugarcane",
+    "Values": "128890"
+  },
+  {
+    "Year": "2003",
+    "State": "NAGALAND",
+    "Crop": "Wheat",
+    "Values": "19500"
+  },
+  {
+    "Year": "2003",
+    "State": "ORISSA",
+    "Crop": "Rice",
+    "Values": "10203000"
+  },
+  {
+    "Year": "2003",
+    "State": "ORISSA",
+    "Crop": "Sugarcane",
+    "Values": "157674"
+  },
+  {
+    "Year": "2003",
+    "State": "ORISSA",
+    "Crop": "Wheat",
+    "Values": "19"
+  },
+  {
+    "Year": "2003",
+    "State": "PONDICHERRY",
+    "Crop": "Rice",
+    "Values": "67003"
+  },
+  {
+    "Year": "2003",
+    "State": "PONDICHERRY",
+    "Crop": "Sugarcane",
+    "Values": "146675"
+  },
+  {
+    "Year": "2003",
+    "State": "PUNJAB",
+    "Crop": "Rice",
+    "Values": "9656000"
+  },
+  {
+    "Year": "2003",
+    "State": "PUNJAB",
+    "Crop": "Sugarcane",
+    "Values": "6620000"
+  },
+  {
+    "Year": "2003",
+    "State": "PUNJAB",
+    "Crop": "Wheat",
+    "Values": "14489000"
+  },
+  {
+    "Year": "2003",
+    "State": "RAJASTHAN",
+    "Crop": "Sugarcane",
+    "Values": "309908"
+  },
+  {
+    "Year": "2003",
+    "State": "RAJASTHAN",
+    "Crop": "Wheat",
+    "Values": "5875862"
+  },
+  {
+    "Year": "2003",
+    "State": "SIKKIM",
+    "Crop": "Rice",
+    "Values": "21190"
+  },
+  {
+    "Year": "2003",
+    "State": "SIKKIM",
+    "Crop": "Wheat",
+    "Values": "8686"
+  },
+  {
+    "Year": "2003",
+    "State": "TAMIL NADU",
+    "Crop": "Rice",
+    "Values": "3222776"
+  },
+  {
+    "Year": "2003",
+    "State": "TAMIL NADU",
+    "Crop": "Sugarcane",
+    "Values": "19529277"
+  },
+  {
+    "Year": "2003",
+    "State": "TRIPURA",
+    "Crop": "Rice",
+    "Values": "616820"
+  },
+  {
+    "Year": "2003",
+    "State": "TRIPURA",
+    "Crop": "Sugarcane",
+    "Values": "47510"
+  },
+  {
+    "Year": "2003",
+    "State": "TRIPURA",
+    "Crop": "Wheat",
+    "Values": "1810"
+  },
+  {
+    "Year": "2003",
+    "State": "UTTAR PRADESH",
+    "Crop": "Rice",
+    "Values": "12494939"
+  },
+  {
+    "Year": "2003",
+    "State": "UTTAR PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "117566725"
+  },
+  {
+    "Year": "2003",
+    "State": "UTTAR PRADESH",
+    "Crop": "Wheat",
+    "Values": "26349910"
+  },
+  {
+    "Year": "2003",
+    "State": "UTTARANCHAL",
+    "Crop": "Rice",
+    "Values": "541957"
+  },
+  {
+    "Year": "2003",
+    "State": "UTTARANCHAL",
+    "Crop": "Sugarcane",
+    "Values": "7023220"
+  },
+  {
+    "Year": "2003",
+    "State": "UTTARANCHAL",
+    "Crop": "Wheat",
+    "Values": "729653"
+  },
+  {
+    "Year": "2003",
+    "State": "WEST BENGAL",
+    "Crop": "Rice",
+    "Values": "14326481"
+  },
+  {
+    "Year": "2003",
+    "State": "WEST BENGAL",
+    "Crop": "Sugarcane",
+    "Values": "1430798"
+  },
+  {
+    "Year": "2003",
+    "State": "WEST BENGAL",
+    "Crop": "Wheat",
+    "Values": "1007811"
+  },
+  {
+    "Year": "2004",
+    "State": "A & N ISLANDS",
+    "Crop": "Sugarcane",
+    "Values": "1560"
+  },
+  {
+    "Year": "2004",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Rice",
+    "Values": "9601045"
+  },
+  {
+    "Year": "2004",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "15739172"
+  },
+  {
+    "Year": "2004",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Wheat",
+    "Values": "4605"
+  },
+  {
+    "Year": "2004",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "134950"
+  },
+  {
+    "Year": "2004",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "14132"
+  },
+  {
+    "Year": "2004",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "6652"
+  },
+  {
+    "Year": "2004",
+    "State": "ASSAM",
+    "Crop": "Rice",
+    "Values": "3470760"
+  },
+  {
+    "Year": "2004",
+    "State": "ASSAM",
+    "Crop": "Sugarcane",
+    "Values": "883925"
+  },
+  {
+    "Year": "2004",
+    "State": "ASSAM",
+    "Crop": "Wheat",
+    "Values": "68083"
+  },
+  {
+    "Year": "2004",
+    "State": "BIHAR",
+    "Crop": "Rice",
+    "Values": "2472156"
+  },
+  {
+    "Year": "2004",
+    "State": "BIHAR",
+    "Crop": "Sugarcane",
+    "Values": "4111722"
+  },
+  {
+    "Year": "2004",
+    "State": "BIHAR",
+    "Crop": "Wheat",
+    "Values": "3263385"
+  },
+  {
+    "Year": "2004",
+    "State": "CHANDIGARH",
+    "Crop": "Rice",
+    "Values": "400"
+  },
+  {
+    "Year": "2004",
+    "State": "CHANDIGARH",
+    "Crop": "Wheat",
+    "Values": "2400"
+  },
+  {
+    "Year": "2004",
+    "State": "CHHATTISGARH",
+    "Crop": "Rice",
+    "Values": "4586818"
+  },
+  {
+    "Year": "2004",
+    "State": "CHHATTISGARH",
+    "Crop": "Sugarcane",
+    "Values": "16450"
+  },
+  {
+    "Year": "2004",
+    "State": "CHHATTISGARH",
+    "Crop": "Wheat",
+    "Values": "85215"
+  },
+  {
+    "Year": "2004",
+    "State": "D & N HAVELI",
+    "Crop": "Rice",
+    "Values": "29171"
+  },
+  {
+    "Year": "2004",
+    "State": "D & N HAVELI",
+    "Crop": "Sugarcane",
+    "Values": "120880"
+  },
+  {
+    "Year": "2004",
+    "State": "D & N HAVELI",
+    "Crop": "Wheat",
+    "Values": "1470"
+  },
+  {
+    "Year": "2004",
+    "State": "DELHI",
+    "Crop": "Rice",
+    "Values": "28216"
+  },
+  {
+    "Year": "2004",
+    "State": "DELHI",
+    "Crop": "Sugarcane",
+    "Values": "301"
+  },
+  {
+    "Year": "2004",
+    "State": "DELHI",
+    "Crop": "Wheat",
+    "Values": "80800"
+  },
+  {
+    "Year": "2004",
+    "State": "GOA",
+    "Crop": "Rice",
+    "Values": "217761"
+  },
+  {
+    "Year": "2004",
+    "State": "GOA",
+    "Crop": "Sugarcane",
+    "Values": "60583"
+  },
+  {
+    "Year": "2004",
+    "State": "GUJARAT",
+    "Crop": "Rice",
+    "Values": "1196500"
+  },
+  {
+    "Year": "2004",
+    "State": "GUJARAT",
+    "Crop": "Sugarcane",
+    "Values": "14558000"
+  },
+  {
+    "Year": "2004",
+    "State": "GUJARAT",
+    "Crop": "Wheat",
+    "Values": "1805500"
+  },
+  {
+    "Year": "2004",
+    "State": "HARYANA",
+    "Crop": "Rice",
+    "Values": "3010000"
+  },
+  {
+    "Year": "2004",
+    "State": "HARYANA",
+    "Crop": "Sugarcane",
+    "Values": "8230000"
+  },
+  {
+    "Year": "2004",
+    "State": "HARYANA",
+    "Crop": "Wheat",
+    "Values": "9043000"
+  },
+  {
+    "Year": "2004",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "109129"
+  },
+  {
+    "Year": "2004",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "687452"
+  },
+  {
+    "Year": "2004",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Rice",
+    "Values": "492732"
+  },
+  {
+    "Year": "2004",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Wheat",
+    "Values": "478255"
+  },
+  {
+    "Year": "2004",
+    "State": "JHARKHAND",
+    "Crop": "Wheat",
+    "Values": "2788"
+  },
+  {
+    "Year": "2004",
+    "State": "KARNATAKA",
+    "Crop": "Rice",
+    "Values": "3706213"
+  },
+  {
+    "Year": "2004",
+    "State": "KARNATAKA",
+    "Crop": "Wheat",
+    "Values": "206296"
+  },
+  {
+    "Year": "2004",
+    "State": "KERALA",
+    "Crop": "Rice",
+    "Values": "667105"
+  },
+  {
+    "Year": "2004",
+    "State": "KERALA",
+    "Crop": "Sugarcane",
+    "Values": "154300"
+  },
+  {
+    "Year": "2004",
+    "State": "MADHYA PRADESH",
+    "Crop": "Rice",
+    "Values": "1302615"
+  },
+  {
+    "Year": "2004",
+    "State": "MADHYA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "1794420"
+  },
+  {
+    "Year": "2004",
+    "State": "MADHYA PRADESH",
+    "Crop": "Wheat",
+    "Values": "7320042"
+  },
+  {
+    "Year": "2004",
+    "State": "MAHARASHTRA",
+    "Crop": "Rice",
+    "Values": "2147200"
+  },
+  {
+    "Year": "2004",
+    "State": "MAHARASHTRA",
+    "Crop": "Sugarcane",
+    "Values": "23913700"
+  },
+  {
+    "Year": "2004",
+    "State": "MAHARASHTRA",
+    "Crop": "Wheat",
+    "Values": "1016300"
+  },
+  {
+    "Year": "2004",
+    "State": "MANIPUR",
+    "Crop": "Rice",
+    "Values": "435930"
+  },
+  {
+    "Year": "2004",
+    "State": "MANIPUR",
+    "Crop": "Sugarcane",
+    "Values": "9800"
+  },
+  {
+    "Year": "2004",
+    "State": "MEGHALYA",
+    "Crop": "Rice",
+    "Values": "193719"
+  },
+  {
+    "Year": "2004",
+    "State": "MEGHALYA",
+    "Crop": "Sugarcane",
+    "Values": "220"
+  },
+  {
+    "Year": "2004",
+    "State": "MEGHALYA",
+    "Crop": "Wheat",
+    "Values": "863"
+  },
+  {
+    "Year": "2004",
+    "State": "MIZORAM",
+    "Crop": "Rice",
+    "Values": "107660"
+  },
+  {
+    "Year": "2004",
+    "State": "MIZORAM",
+    "Crop": "Wheat",
+    "Values": "4"
+  },
+  {
+    "Year": "2004",
+    "State": "NAGALAND",
+    "Crop": "Rice",
+    "Values": "261750"
+  },
+  {
+    "Year": "2004",
+    "State": "NAGALAND",
+    "Crop": "Sugarcane",
+    "Values": "142100"
+  },
+  {
+    "Year": "2004",
+    "State": "NAGALAND",
+    "Crop": "Wheat",
+    "Values": "13000"
+  },
+  {
+    "Year": "2004",
+    "State": "ORISSA",
+    "Crop": "Rice",
+    "Values": "6537000"
+  },
+  {
+    "Year": "2004",
+    "State": "ORISSA",
+    "Crop": "Sugarcane",
+    "Values": "215114"
+  },
+  {
+    "Year": "2004",
+    "State": "ORISSA",
+    "Crop": "Wheat",
+    "Values": "198"
+  },
+  {
+    "Year": "2004",
+    "State": "PONDICHERRY",
+    "Crop": "Rice",
+    "Values": "61036"
+  },
+  {
+    "Year": "2004",
+    "State": "PONDICHERRY",
+    "Crop": "Sugarcane",
+    "Values": "115690"
+  },
+  {
+    "Year": "2004",
+    "State": "PUNJAB",
+    "Crop": "Rice",
+    "Values": "10437000"
+  },
+  {
+    "Year": "2004",
+    "State": "PUNJAB",
+    "Crop": "Sugarcane",
+    "Values": "517000"
+  },
+  {
+    "Year": "2004",
+    "State": "PUNJAB",
+    "Crop": "Wheat",
+    "Values": "14698000"
+  },
+  {
+    "Year": "2004",
+    "State": "RAJASTHAN",
+    "Crop": "Rice",
+    "Values": "150413"
+  },
+  {
+    "Year": "2004",
+    "State": "RAJASTHAN",
+    "Crop": "Wheat",
+    "Values": "5706871"
+  },
+  {
+    "Year": "2004",
+    "State": "SIKKIM",
+    "Crop": "Rice",
+    "Values": "21610"
+  },
+  {
+    "Year": "2004",
+    "State": "SIKKIM",
+    "Crop": "Wheat",
+    "Values": "8250"
+  },
+  {
+    "Year": "2004",
+    "State": "TAMIL NADU",
+    "Crop": "Rice",
+    "Values": "5061622"
+  },
+  {
+    "Year": "2004",
+    "State": "TAMIL NADU",
+    "Crop": "Sugarcane",
+    "Values": "24457244"
+  },
+  {
+    "Year": "2004",
+    "State": "UTTAR PRADESH",
+    "Crop": "Rice",
+    "Values": "10749989"
+  },
+  {
+    "Year": "2004",
+    "State": "UTTAR PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "121755620"
+  },
+  {
+    "Year": "2004",
+    "State": "UTTAR PRADESH",
+    "Crop": "Wheat",
+    "Values": "23430044"
+  },
+  {
+    "Year": "2004",
+    "State": "UTTARANCHAL",
+    "Crop": "Rice",
+    "Values": "560243"
+  },
+  {
+    "Year": "2004",
+    "State": "UTTARANCHAL",
+    "Crop": "Sugarcane",
+    "Values": "6358655"
+  },
+  {
+    "Year": "2004",
+    "State": "UTTARANCHAL",
+    "Crop": "Wheat",
+    "Values": "799221"
+  },
+  {
+    "Year": "2004",
+    "State": "WEST BENGAL",
+    "Crop": "Rice",
+    "Values": "14884889"
+  },
+  {
+    "Year": "2004",
+    "State": "WEST BENGAL",
+    "Crop": "Sugarcane",
+    "Values": "1033235"
+  },
+  {
+    "Year": "2004",
+    "State": "WEST BENGAL",
+    "Crop": "Wheat",
+    "Values": "841471"
+  },
+  {
+    "Year": "2005",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Rice",
+    "Values": "11703624"
+  },
+  {
+    "Year": "2005",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "17656395"
+  },
+  {
+    "Year": "2005",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Wheat",
+    "Values": "8891"
+  },
+  {
+    "Year": "2005",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "146191"
+  },
+  {
+    "Year": "2005",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "16181"
+  },
+  {
+    "Year": "2005",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "6140"
+  },
+  {
+    "Year": "2005",
+    "State": "ASSAM",
+    "Crop": "Rice",
+    "Values": "3552438"
+  },
+  {
+    "Year": "2005",
+    "State": "ASSAM",
+    "Crop": "Sugarcane",
+    "Values": "871148"
+  },
+  {
+    "Year": "2005",
+    "State": "ASSAM",
+    "Crop": "Wheat",
+    "Values": "53731"
+  },
+  {
+    "Year": "2005",
+    "State": "BIHAR",
+    "Crop": "Rice",
+    "Values": "3709285"
+  },
+  {
+    "Year": "2005",
+    "State": "BIHAR",
+    "Crop": "Sugarcane",
+    "Values": "4240463"
+  },
+  {
+    "Year": "2005",
+    "State": "BIHAR",
+    "Crop": "Wheat",
+    "Values": "2821120"
+  },
+  {
+    "Year": "2005",
+    "State": "CHANDIGARH",
+    "Crop": "Rice",
+    "Values": "250"
+  },
+  {
+    "Year": "2005",
+    "State": "CHANDIGARH",
+    "Crop": "Wheat",
+    "Values": "2750"
+  },
+  {
+    "Year": "2005",
+    "State": "CHHATTISGARH",
+    "Crop": "Rice",
+    "Values": "5267537"
+  },
+  {
+    "Year": "2005",
+    "State": "CHHATTISGARH",
+    "Crop": "Sugarcane",
+    "Values": "18562"
+  },
+  {
+    "Year": "2005",
+    "State": "CHHATTISGARH",
+    "Crop": "Wheat",
+    "Values": "85191"
+  },
+  {
+    "Year": "2005",
+    "State": "D & N HAVELI",
+    "Crop": "Rice",
+    "Values": "33643"
+  },
+  {
+    "Year": "2005",
+    "State": "D & N HAVELI",
+    "Crop": "Sugarcane",
+    "Values": "122480"
+  },
+  {
+    "Year": "2005",
+    "State": "D & N HAVELI",
+    "Crop": "Wheat",
+    "Values": "1500"
+  },
+  {
+    "Year": "2005",
+    "State": "DELHI",
+    "Crop": "Rice",
+    "Values": "21092"
+  },
+  {
+    "Year": "2005",
+    "State": "DELHI",
+    "Crop": "Sugarcane",
+    "Values": "225"
+  },
+  {
+    "Year": "2005",
+    "State": "DELHI",
+    "Crop": "Wheat",
+    "Values": "79404"
+  },
+  {
+    "Year": "2005",
+    "State": "GOA",
+    "Crop": "Rice",
+    "Values": "220853"
+  },
+  {
+    "Year": "2005",
+    "State": "GOA",
+    "Crop": "Sugarcane",
+    "Values": "55867"
+  },
+  {
+    "Year": "2005",
+    "State": "GUJARAT",
+    "Crop": "Rice",
+    "Values": "1283600"
+  },
+  {
+    "Year": "2005",
+    "State": "GUJARAT",
+    "Crop": "Sugarcane",
+    "Values": "17786000"
+  },
+  {
+    "Year": "2005",
+    "State": "GUJARAT",
+    "Crop": "Wheat",
+    "Values": "2319200"
+  },
+  {
+    "Year": "2005",
+    "State": "HARYANA",
+    "Crop": "Rice",
+    "Values": "3194000"
+  },
+  {
+    "Year": "2005",
+    "State": "HARYANA",
+    "Crop": "Sugarcane",
+    "Values": "8310000"
+  },
+  {
+    "Year": "2005",
+    "State": "HARYANA",
+    "Crop": "Wheat",
+    "Values": "8502000"
+  },
+  {
+    "Year": "2005",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "112139"
+  },
+  {
+    "Year": "2005",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "25094"
+  },
+  {
+    "Year": "2005",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "365885"
+  },
+  {
+    "Year": "2005",
+    "State": "KARNATAKA",
+    "Crop": "Rice",
+    "Values": "3999246"
+  },
+  {
+    "Year": "2005",
+    "State": "KARNATAKA",
+    "Crop": "Sugarcane",
+    "Values": "19647650"
+  },
+  {
+    "Year": "2005",
+    "State": "KARNATAKA",
+    "Crop": "Wheat",
+    "Values": "226369"
+  },
+  {
+    "Year": "2005",
+    "State": "KERALA",
+    "Crop": "Rice",
+    "Values": "629987"
+  },
+  {
+    "Year": "2005",
+    "State": "KERALA",
+    "Crop": "Sugarcane",
+    "Values": "91650"
+  },
+  {
+    "Year": "2005",
+    "State": "MADHYA PRADESH",
+    "Crop": "Rice",
+    "Values": "1687475"
+  },
+  {
+    "Year": "2005",
+    "State": "MADHYA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "2236980"
+  },
+  {
+    "Year": "2005",
+    "State": "MADHYA PRADESH",
+    "Crop": "Wheat",
+    "Values": "6192368"
+  },
+  {
+    "Year": "2005",
+    "State": "MAHARASHTRA",
+    "Crop": "Rice",
+    "Values": "2665900"
+  },
+  {
+    "Year": "2005",
+    "State": "MAHARASHTRA",
+    "Crop": "Sugarcane",
+    "Values": "38813700"
+  },
+  {
+    "Year": "2005",
+    "State": "MAHARASHTRA",
+    "Crop": "Wheat",
+    "Values": "1300700"
+  },
+  {
+    "Year": "2005",
+    "State": "MANIPUR",
+    "Crop": "Rice",
+    "Values": "386070"
+  },
+  {
+    "Year": "2005",
+    "State": "MANIPUR",
+    "Crop": "Sugarcane",
+    "Values": "2290"
+  },
+  {
+    "Year": "2005",
+    "State": "MEGHALYA",
+    "Crop": "Rice",
+    "Values": "208277"
+  },
+  {
+    "Year": "2005",
+    "State": "MEGHALYA",
+    "Crop": "Sugarcane",
+    "Values": "219"
+  },
+  {
+    "Year": "2005",
+    "State": "MEGHALYA",
+    "Crop": "Wheat",
+    "Values": "1198"
+  },
+  {
+    "Year": "2005",
+    "State": "MIZORAM",
+    "Crop": "Rice",
+    "Values": "107740"
+  },
+  {
+    "Year": "2005",
+    "State": "MIZORAM",
+    "Crop": "Sugarcane",
+    "Values": "45953"
+  },
+  {
+    "Year": "2005",
+    "State": "NAGALAND",
+    "Crop": "Rice",
+    "Values": "263100"
+  },
+  {
+    "Year": "2005",
+    "State": "NAGALAND",
+    "Crop": "Sugarcane",
+    "Values": "210880"
+  },
+  {
+    "Year": "2005",
+    "State": "NAGALAND",
+    "Crop": "Wheat",
+    "Values": "1920"
+  },
+  {
+    "Year": "2005",
+    "State": "ORISSA",
+    "Crop": "Rice",
+    "Values": "13717000"
+  },
+  {
+    "Year": "2005",
+    "State": "ORISSA",
+    "Crop": "Sugarcane",
+    "Values": "130498"
+  },
+  {
+    "Year": "2005",
+    "State": "ORISSA",
+    "Crop": "Wheat",
+    "Values": "3054"
+  },
+  {
+    "Year": "2005",
+    "State": "PONDICHERRY",
+    "Crop": "Rice",
+    "Values": "53617"
+  },
+  {
+    "Year": "2005",
+    "State": "PONDICHERRY",
+    "Crop": "Sugarcane",
+    "Values": "299000"
+  },
+  {
+    "Year": "2005",
+    "State": "PUNJAB",
+    "Crop": "Rice",
+    "Values": "10193000"
+  },
+  {
+    "Year": "2005",
+    "State": "PUNJAB",
+    "Crop": "Sugarcane",
+    "Values": "486000"
+  },
+  {
+    "Year": "2005",
+    "State": "PUNJAB",
+    "Crop": "Wheat",
+    "Values": "14493000"
+  },
+  {
+    "Year": "2005",
+    "State": "RAJASTHAN",
+    "Crop": "Rice",
+    "Values": "153074"
+  },
+  {
+    "Year": "2005",
+    "State": "RAJASTHAN",
+    "Crop": "Sugarcane",
+    "Values": "482634"
+  },
+  {
+    "Year": "2005",
+    "State": "RAJASTHAN",
+    "Crop": "Wheat",
+    "Values": "5865293"
+  },
+  {
+    "Year": "2005",
+    "State": "SIKKIM",
+    "Crop": "Rice",
+    "Values": "23690"
+  },
+  {
+    "Year": "2005",
+    "State": "SIKKIM",
+    "Crop": "Wheat",
+    "Values": "9200"
+  },
+  {
+    "Year": "2005",
+    "State": "TAMIL NADU",
+    "Crop": "Rice",
+    "Values": "5209433"
+  },
+  {
+    "Year": "2005",
+    "State": "TAMIL NADU",
+    "Crop": "Sugarcane",
+    "Values": "35113269"
+  },
+  {
+    "Year": "2005",
+    "State": "UTTAR PRADESH",
+    "Crop": "Rice",
+    "Values": "11119095"
+  },
+  {
+    "Year": "2005",
+    "State": "UTTAR PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "125469871"
+  },
+  {
+    "Year": "2005",
+    "State": "UTTAR PRADESH",
+    "Crop": "Wheat",
+    "Values": "23573776"
+  },
+  {
+    "Year": "2005",
+    "State": "UTTARANCHAL",
+    "Crop": "Rice",
+    "Values": "569166"
+  },
+  {
+    "Year": "2005",
+    "State": "UTTARANCHAL",
+    "Crop": "Sugarcane",
+    "Values": "6635715"
+  },
+  {
+    "Year": "2005",
+    "State": "UTTARANCHAL",
+    "Crop": "Wheat",
+    "Values": "642216"
+  },
+  {
+    "Year": "2005",
+    "State": "WEST BENGAL",
+    "Crop": "Rice",
+    "Values": "14510742"
+  },
+  {
+    "Year": "2005",
+    "State": "WEST BENGAL",
+    "Crop": "Sugarcane",
+    "Values": "1247713"
+  },
+  {
+    "Year": "2005",
+    "State": "WEST BENGAL",
+    "Crop": "Wheat",
+    "Values": "773514"
+  },
+  {
+    "Year": "2006",
+    "State": "A & N ISLANDS",
+    "Crop": "Sugarcane",
+    "Values": "1500"
+  },
+  {
+    "Year": "2006",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Rice",
+    "Values": "11872130"
+  },
+  {
+    "Year": "2006",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "21691638"
+  },
+  {
+    "Year": "2006",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "144635"
+  },
+  {
+    "Year": "2006",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "16843"
+  },
+  {
+    "Year": "2006",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "6301"
+  },
+  {
+    "Year": "2006",
+    "State": "ASSAM",
+    "Crop": "Rice",
+    "Values": "2916014"
+  },
+  {
+    "Year": "2006",
+    "State": "ASSAM",
+    "Crop": "Sugarcane",
+    "Values": "1055337"
+  },
+  {
+    "Year": "2006",
+    "State": "ASSAM",
+    "Crop": "Wheat",
+    "Values": "67413"
+  },
+  {
+    "Year": "2006",
+    "State": "BIHAR",
+    "Crop": "Rice",
+    "Values": "5027947"
+  },
+  {
+    "Year": "2006",
+    "State": "BIHAR",
+    "Crop": "Wheat",
+    "Values": "4155541"
+  },
+  {
+    "Year": "2006",
+    "State": "CHANDIGARH",
+    "Crop": "Rice",
+    "Values": "250"
+  },
+  {
+    "Year": "2006",
+    "State": "CHANDIGARH",
+    "Crop": "Wheat",
+    "Values": "2800"
+  },
+  {
+    "Year": "2006",
+    "State": "CHHATTISGARH",
+    "Crop": "Rice",
+    "Values": "5441525"
+  },
+  {
+    "Year": "2006",
+    "State": "CHHATTISGARH",
+    "Crop": "Sugarcane",
+    "Values": "20316"
+  },
+  {
+    "Year": "2006",
+    "State": "CHHATTISGARH",
+    "Crop": "Wheat",
+    "Values": "93952"
+  },
+  {
+    "Year": "2006",
+    "State": "DELHI",
+    "Crop": "Rice",
+    "Values": "20815"
+  },
+  {
+    "Year": "2006",
+    "State": "DELHI",
+    "Crop": "Sugarcane",
+    "Values": "301"
+  },
+  {
+    "Year": "2006",
+    "State": "DELHI",
+    "Crop": "Wheat",
+    "Values": "77885"
+  },
+  {
+    "Year": "2006",
+    "State": "GOA",
+    "Crop": "Rice",
+    "Values": "193418"
+  },
+  {
+    "Year": "2006",
+    "State": "GOA",
+    "Crop": "Sugarcane",
+    "Values": "73289"
+  },
+  {
+    "Year": "2006",
+    "State": "GUJARAT",
+    "Crop": "Rice",
+    "Values": "1141200"
+  },
+  {
+    "Year": "2006",
+    "State": "GUJARAT",
+    "Crop": "Sugarcane",
+    "Values": "16554000"
+  },
+  {
+    "Year": "2006",
+    "State": "GUJARAT",
+    "Crop": "Wheat",
+    "Values": "2791500"
+  },
+  {
+    "Year": "2006",
+    "State": "HARYANA",
+    "Crop": "Rice",
+    "Values": "3371000"
+  },
+  {
+    "Year": "2006",
+    "State": "HARYANA",
+    "Crop": "Sugarcane",
+    "Values": "9651000"
+  },
+  {
+    "Year": "2006",
+    "State": "HARYANA",
+    "Crop": "Wheat",
+    "Values": "10059000"
+  },
+  {
+    "Year": "2006",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "123485"
+  },
+  {
+    "Year": "2006",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "59184"
+  },
+  {
+    "Year": "2006",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "596493"
+  },
+  {
+    "Year": "2006",
+    "State": "JHARKHAND",
+    "Crop": "Rice",
+    "Values": "339916"
+  },
+  {
+    "Year": "2006",
+    "State": "JHARKHAND",
+    "Crop": "Sugarcane",
+    "Values": "26102"
+  },
+  {
+    "Year": "2006",
+    "State": "JHARKHAND",
+    "Crop": "Wheat",
+    "Values": "163905"
+  },
+  {
+    "Year": "2006",
+    "State": "KARNATAKA",
+    "Crop": "Rice",
+    "Values": "3645526"
+  },
+  {
+    "Year": "2006",
+    "State": "KARNATAKA",
+    "Crop": "Sugarcane",
+    "Values": "23641948"
+  },
+  {
+    "Year": "2006",
+    "State": "KARNATAKA",
+    "Crop": "Wheat",
+    "Values": "223806"
+  },
+  {
+    "Year": "2006",
+    "State": "KERALA",
+    "Crop": "Rice",
+    "Values": "641575"
+  },
+  {
+    "Year": "2006",
+    "State": "KERALA",
+    "Crop": "Sugarcane",
+    "Values": "65790"
+  },
+  {
+    "Year": "2006",
+    "State": "MAHARASHTRA",
+    "Crop": "Rice",
+    "Values": "2571700"
+  },
+  {
+    "Year": "2006",
+    "State": "MAHARASHTRA",
+    "Crop": "Wheat",
+    "Values": "1871000"
+  },
+  {
+    "Year": "2006",
+    "State": "MANIPUR",
+    "Crop": "Rice",
+    "Values": "389170"
+  },
+  {
+    "Year": "2006",
+    "State": "MANIPUR",
+    "Crop": "Sugarcane",
+    "Values": "16990"
+  },
+  {
+    "Year": "2006",
+    "State": "MIZORAM",
+    "Crop": "Rice",
+    "Values": "29464"
+  },
+  {
+    "Year": "2006",
+    "State": "MIZORAM",
+    "Crop": "Sugarcane",
+    "Values": "12188"
+  },
+  {
+    "Year": "2006",
+    "State": "NAGALAND",
+    "Crop": "Rice",
+    "Values": "263520"
+  },
+  {
+    "Year": "2006",
+    "State": "NAGALAND",
+    "Crop": "Sugarcane",
+    "Values": "233850"
+  },
+  {
+    "Year": "2006",
+    "State": "NAGALAND",
+    "Crop": "Wheat",
+    "Values": "1250"
+  },
+  {
+    "Year": "2006",
+    "State": "ORISSA",
+    "Crop": "Rice",
+    "Values": "6823000"
+  },
+  {
+    "Year": "2006",
+    "State": "ORISSA",
+    "Crop": "Sugarcane",
+    "Values": "62465"
+  },
+  {
+    "Year": "2006",
+    "State": "ORISSA",
+    "Crop": "Wheat",
+    "Values": "1865"
+  },
+  {
+    "Year": "2006",
+    "State": "PUNJAB",
+    "Crop": "Rice",
+    "Values": "9542000"
+  },
+  {
+    "Year": "2006",
+    "State": "PUNJAB",
+    "Crop": "Wheat",
+    "Values": "13645000"
+  },
+  {
+    "Year": "2006",
+    "State": "RAJASTHAN",
+    "Crop": "Rice",
+    "Values": "169823"
+  },
+  {
+    "Year": "2006",
+    "State": "RAJASTHAN",
+    "Crop": "Sugarcane",
+    "Values": "628963"
+  },
+  {
+    "Year": "2006",
+    "State": "RAJASTHAN",
+    "Crop": "Wheat",
+    "Values": "7755883"
+  },
+  {
+    "Year": "2006",
+    "State": "SIKKIM",
+    "Crop": "Rice",
+    "Values": "21450"
+  },
+  {
+    "Year": "2006",
+    "State": "SIKKIM",
+    "Crop": "Wheat",
+    "Values": "10360"
+  },
+  {
+    "Year": "2006",
+    "State": "TAMIL NADU",
+    "Crop": "Rice",
+    "Values": "6610607"
+  },
+  {
+    "Year": "2006",
+    "State": "TAMIL NADU",
+    "Crop": "Sugarcane",
+    "Values": "48037332"
+  },
+  {
+    "Year": "2006",
+    "State": "TRIPURA",
+    "Crop": "Rice",
+    "Values": "628200"
+  },
+  {
+    "Year": "2006",
+    "State": "TRIPURA",
+    "Crop": "Sugarcane",
+    "Values": "42373"
+  },
+  {
+    "Year": "2006",
+    "State": "TRIPURA",
+    "Crop": "Wheat",
+    "Values": "1845"
+  },
+  {
+    "Year": "2006",
+    "State": "UTTAR PRADESH",
+    "Crop": "Rice",
+    "Values": "11123613"
+  },
+  {
+    "Year": "2006",
+    "State": "UTTAR PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "133949379"
+  },
+  {
+    "Year": "2006",
+    "State": "UTTAR PRADESH",
+    "Crop": "Wheat",
+    "Values": "25443428"
+  },
+  {
+    "Year": "2006",
+    "State": "UTTARANCHAL",
+    "Crop": "Rice",
+    "Values": "571336"
+  },
+  {
+    "Year": "2006",
+    "State": "UTTARANCHAL",
+    "Crop": "Sugarcane",
+    "Values": "7267238"
+  },
+  {
+    "Year": "2006",
+    "State": "UTTARANCHAL",
+    "Crop": "Wheat",
+    "Values": "796548"
+  },
+  {
+    "Year": "2006",
+    "State": "WEST BENGAL",
+    "Crop": "Rice",
+    "Values": "14745892"
+  },
+  {
+    "Year": "2006",
+    "State": "WEST BENGAL",
+    "Crop": "Sugarcane",
+    "Values": "1266705"
+  },
+  {
+    "Year": "2006",
+    "State": "WEST BENGAL",
+    "Crop": "Wheat",
+    "Values": "799876"
+  },
+  {
+    "Year": "2007",
+    "State": "A & N ISLANDS",
+    "Crop": "Sugarcane",
+    "Values": "3548"
+  },
+  {
+    "Year": "2007",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Rice",
+    "Values": "13324000"
+  },
+  {
+    "Year": "2007",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "20182000"
+  },
+  {
+    "Year": "2007",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Wheat",
+    "Values": "8000"
+  },
+  {
+    "Year": "2007",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "158146"
+  },
+  {
+    "Year": "2007",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "21754"
+  },
+  {
+    "Year": "2007",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "5294"
+  },
+  {
+    "Year": "2007",
+    "State": "ASSAM",
+    "Crop": "Rice",
+    "Values": "3318568"
+  },
+  {
+    "Year": "2007",
+    "State": "ASSAM",
+    "Crop": "Sugarcane",
+    "Values": "979860"
+  },
+  {
+    "Year": "2007",
+    "State": "ASSAM",
+    "Crop": "Wheat",
+    "Values": "70797"
+  },
+  {
+    "Year": "2007",
+    "State": "BIHAR",
+    "Crop": "Rice",
+    "Values": "4458764"
+  },
+  {
+    "Year": "2007",
+    "State": "BIHAR",
+    "Crop": "Sugarcane",
+    "Values": "4027229"
+  },
+  {
+    "Year": "2007",
+    "State": "BIHAR",
+    "Crop": "Wheat",
+    "Values": "4977463"
+  },
+  {
+    "Year": "2007",
+    "State": "CHANDIGARH",
+    "Crop": "Rice",
+    "Values": "250"
+  },
+  {
+    "Year": "2007",
+    "State": "CHANDIGARH",
+    "Crop": "Wheat",
+    "Values": "2800"
+  },
+  {
+    "Year": "2007",
+    "State": "CHHATTISGARH",
+    "Crop": "Rice",
+    "Values": "5517844"
+  },
+  {
+    "Year": "2007",
+    "State": "CHHATTISGARH",
+    "Crop": "Sugarcane",
+    "Values": "27243"
+  },
+  {
+    "Year": "2007",
+    "State": "CHHATTISGARH",
+    "Crop": "Wheat",
+    "Values": "104524"
+  },
+  {
+    "Year": "2007",
+    "State": "DELHI",
+    "Crop": "Rice",
+    "Values": "20946"
+  },
+  {
+    "Year": "2007",
+    "State": "DELHI",
+    "Crop": "Sugarcane",
+    "Values": "276"
+  },
+  {
+    "Year": "2007",
+    "State": "DELHI",
+    "Crop": "Wheat",
+    "Values": "76222"
+  },
+  {
+    "Year": "2007",
+    "State": "GOA",
+    "Crop": "Rice",
+    "Values": "182519"
+  },
+  {
+    "Year": "2007",
+    "State": "GOA",
+    "Crop": "Sugarcane",
+    "Values": "56027"
+  },
+  {
+    "Year": "2007",
+    "State": "GUJARAT",
+    "Crop": "Rice",
+    "Values": "1474200"
+  },
+  {
+    "Year": "2007",
+    "State": "GUJARAT",
+    "Crop": "Sugarcane",
+    "Values": "1519000"
+  },
+  {
+    "Year": "2007",
+    "State": "GUJARAT",
+    "Crop": "Wheat",
+    "Values": "3837700"
+  },
+  {
+    "Year": "2007",
+    "State": "HARYANA",
+    "Crop": "Rice",
+    "Values": "3606000"
+  },
+  {
+    "Year": "2007",
+    "State": "HARYANA",
+    "Crop": "Sugarcane",
+    "Values": "8850000"
+  },
+  {
+    "Year": "2007",
+    "State": "HARYANA",
+    "Crop": "Wheat",
+    "Values": "10232000"
+  },
+  {
+    "Year": "2007",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "121453"
+  },
+  {
+    "Year": "2007",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "58442"
+  },
+  {
+    "Year": "2007",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "504360"
+  },
+  {
+    "Year": "2007",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Rice",
+    "Values": "439868"
+  },
+  {
+    "Year": "2007",
+    "State": "JAMMU & KASHMIR",
+    "Crop": "Wheat",
+    "Values": "423460"
+  },
+  {
+    "Year": "2007",
+    "State": "JHARKHAND",
+    "Crop": "Rice",
+    "Values": "291646"
+  },
+  {
+    "Year": "2007",
+    "State": "JHARKHAND",
+    "Crop": "Sugarcane",
+    "Values": "40610"
+  },
+  {
+    "Year": "2007",
+    "State": "JHARKHAND",
+    "Crop": "Wheat",
+    "Values": "68534"
+  },
+  {
+    "Year": "2007",
+    "State": "KARNATAKA",
+    "Crop": "Rice",
+    "Values": "3835381"
+  },
+  {
+    "Year": "2007",
+    "State": "KARNATAKA",
+    "Crop": "Sugarcane",
+    "Values": "26014971"
+  },
+  {
+    "Year": "2007",
+    "State": "KARNATAKA",
+    "Crop": "Wheat",
+    "Values": "280384"
+  },
+  {
+    "Year": "2007",
+    "State": "KERALA",
+    "Crop": "Rice",
+    "Values": "528488"
+  },
+  {
+    "Year": "2007",
+    "State": "KERALA",
+    "Crop": "Sugarcane",
+    "Values": "15915"
+  },
+  {
+    "Year": "2007",
+    "State": "MADHYA PRADESH",
+    "Crop": "Rice",
+    "Values": "1325175"
+  },
+  {
+    "Year": "2007",
+    "State": "MADHYA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "3276720"
+  },
+  {
+    "Year": "2007",
+    "State": "MADHYA PRADESH",
+    "Crop": "Wheat",
+    "Values": "6729363"
+  },
+  {
+    "Year": "2007",
+    "State": "MAHARASHTRA",
+    "Crop": "Rice",
+    "Values": "29128"
+  },
+  {
+    "Year": "2007",
+    "State": "MAHARASHTRA",
+    "Crop": "Sugarcane",
+    "Values": "883099"
+  },
+  {
+    "Year": "2007",
+    "State": "MAHARASHTRA",
+    "Crop": "Wheat",
+    "Values": "19875"
+  },
+  {
+    "Year": "2007",
+    "State": "MANIPUR",
+    "Crop": "Rice",
+    "Values": "406150"
+  },
+  {
+    "Year": "2007",
+    "State": "MANIPUR",
+    "Crop": "Sugarcane",
+    "Values": "16660"
+  },
+  {
+    "Year": "2007",
+    "State": "MEGHALYA",
+    "Crop": "Rice",
+    "Values": "200077"
+  },
+  {
+    "Year": "2007",
+    "State": "MEGHALYA",
+    "Crop": "Sugarcane",
+    "Values": "252"
+  },
+  {
+    "Year": "2007",
+    "State": "MEGHALYA",
+    "Crop": "Wheat",
+    "Values": "1120"
+  },
+  {
+    "Year": "2007",
+    "State": "MIZORAM",
+    "Crop": "Rice",
+    "Values": "15688"
+  },
+  {
+    "Year": "2007",
+    "State": "MIZORAM",
+    "Crop": "Sugarcane",
+    "Values": "828"
+  },
+  {
+    "Year": "2007",
+    "State": "NAGALAND",
+    "Crop": "Rice",
+    "Values": "311300"
+  },
+  {
+    "Year": "2007",
+    "State": "NAGALAND",
+    "Crop": "Sugarcane",
+    "Values": "220320"
+  },
+  {
+    "Year": "2007",
+    "State": "NAGALAND",
+    "Crop": "Wheat",
+    "Values": "1800"
+  },
+  {
+    "Year": "2007",
+    "State": "ORISSA",
+    "Crop": "Rice",
+    "Values": "7540000"
+  },
+  {
+    "Year": "2007",
+    "State": "ORISSA",
+    "Crop": "Sugarcane",
+    "Values": "197606"
+  },
+  {
+    "Year": "2007",
+    "State": "ORISSA",
+    "Crop": "Wheat",
+    "Values": "124"
+  },
+  {
+    "Year": "2007",
+    "State": "PUNJAB",
+    "Crop": "Rice",
+    "Values": "9381000"
+  },
+  {
+    "Year": "2007",
+    "State": "PUNJAB",
+    "Crop": "Wheat",
+    "Values": "14175000"
+  },
+  {
+    "Year": "2007",
+    "State": "RAJASTHAN",
+    "Crop": "Rice",
+    "Values": "259657"
+  },
+  {
+    "Year": "2007",
+    "State": "RAJASTHAN",
+    "Crop": "Sugarcane",
+    "Values": "594056"
+  },
+  {
+    "Year": "2007",
+    "State": "RAJASTHAN",
+    "Crop": "Wheat",
+    "Values": "7126040"
+  },
+  {
+    "Year": "2007",
+    "State": "SIKKIM",
+    "Crop": "Rice",
+    "Values": "19480"
+  },
+  {
+    "Year": "2007",
+    "State": "SIKKIM",
+    "Crop": "Wheat",
+    "Values": "4460"
+  },
+  {
+    "Year": "2007",
+    "State": "TAMIL NADU",
+    "Crop": "Rice",
+    "Values": "5039954"
+  },
+  {
+    "Year": "2007",
+    "State": "TAMIL NADU",
+    "Crop": "Sugarcane",
+    "Values": "38070965"
+  },
+  {
+    "Year": "2007",
+    "State": "UTTAR PRADESH",
+    "Crop": "Rice",
+    "Values": "11780112"
+  },
+  {
+    "Year": "2007",
+    "State": "UTTAR PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "124665288"
+  },
+  {
+    "Year": "2007",
+    "State": "UTTAR PRADESH",
+    "Crop": "Wheat",
+    "Values": "25679089"
+  },
+  {
+    "Year": "2007",
+    "State": "UTTARANCHAL",
+    "Crop": "Rice",
+    "Values": "565067"
+  },
+  {
+    "Year": "2007",
+    "State": "UTTARANCHAL",
+    "Crop": "Sugarcane",
+    "Values": "7594553"
+  },
+  {
+    "Year": "2007",
+    "State": "UTTARANCHAL",
+    "Crop": "Wheat",
+    "Values": "798233"
+  },
+  {
+    "Year": "2007",
+    "State": "WEST BENGAL",
+    "Crop": "Rice",
+    "Values": "14719520"
+  },
+  {
+    "Year": "2007",
+    "State": "WEST BENGAL",
+    "Crop": "Sugarcane",
+    "Values": "1772001"
+  },
+  {
+    "Year": "2007",
+    "State": "WEST BENGAL",
+    "Crop": "Wheat",
+    "Values": "917284"
+  },
+  {
+    "Year": "2008",
+    "State": "A & N ISLANDS",
+    "Crop": "Rice",
+    "Values": "14730"
+  },
+  {
+    "Year": "2008",
+    "State": "A & N ISLANDS",
+    "Crop": "Sugarcane",
+    "Values": "3020"
+  },
+  {
+    "Year": "2008",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Rice",
+    "Values": "14241133"
+  },
+  {
+    "Year": "2008",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "15382999"
+  },
+  {
+    "Year": "2008",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Wheat",
+    "Values": "15421"
+  },
+  {
+    "Year": "2008",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "164538"
+  },
+  {
+    "Year": "2008",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "23439"
+  },
+  {
+    "Year": "2008",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "5169"
+  },
+  {
+    "Year": "2008",
+    "State": "ASSAM",
+    "Crop": "Rice",
+    "Values": "4008435"
+  },
+  {
+    "Year": "2008",
+    "State": "ASSAM",
+    "Crop": "Sugarcane",
+    "Values": "1099749"
+  },
+  {
+    "Year": "2008",
+    "State": "ASSAM",
+    "Crop": "Wheat",
+    "Values": "54551"
+  },
+  {
+    "Year": "2008",
+    "State": "BIHAR",
+    "Crop": "Rice",
+    "Values": "5589982"
+  },
+  {
+    "Year": "2008",
+    "State": "BIHAR",
+    "Crop": "Sugarcane",
+    "Values": "4959918"
+  },
+  {
+    "Year": "2008",
+    "State": "BIHAR",
+    "Crop": "Wheat",
+    "Values": "4413017"
+  },
+  {
+    "Year": "2008",
+    "State": "CHANDIGARH",
+    "Crop": "Rice",
+    "Values": "100"
+  },
+  {
+    "Year": "2008",
+    "State": "CHANDIGARH",
+    "Crop": "Wheat",
+    "Values": "2700"
+  },
+  {
+    "Year": "2008",
+    "State": "CHHATTISGARH",
+    "Crop": "Rice",
+    "Values": "4626715"
+  },
+  {
+    "Year": "2008",
+    "State": "CHHATTISGARH",
+    "Crop": "Sugarcane",
+    "Values": "22221"
+  },
+  {
+    "Year": "2008",
+    "State": "CHHATTISGARH",
+    "Crop": "Wheat",
+    "Values": "97410"
+  },
+  {
+    "Year": "2008",
+    "State": "GUJARAT",
+    "Crop": "Rice",
+    "Values": "1302900"
+  },
+  {
+    "Year": "2008",
+    "State": "GUJARAT",
+    "Crop": "Sugarcane",
+    "Values": "1551200"
+  },
+  {
+    "Year": "2008",
+    "State": "GUJARAT",
+    "Crop": "Wheat",
+    "Values": "2592600"
+  },
+  {
+    "Year": "2008",
+    "State": "HARYANA",
+    "Crop": "Rice",
+    "Values": "3299000"
+  },
+  {
+    "Year": "2008",
+    "State": "HARYANA",
+    "Crop": "Sugarcane",
+    "Values": "5242000"
+  },
+  {
+    "Year": "2008",
+    "State": "HARYANA",
+    "Crop": "Wheat",
+    "Values": "11360000"
+  },
+  {
+    "Year": "2008",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "118277"
+  },
+  {
+    "Year": "2008",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "53068"
+  },
+  {
+    "Year": "2008",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "381180"
+  },
+  {
+    "Year": "2008",
+    "State": "KARNATAKA",
+    "Crop": "Rice",
+    "Values": "3989083"
+  },
+  {
+    "Year": "2008",
+    "State": "KARNATAKA",
+    "Crop": "Sugarcane",
+    "Values": "24179949"
+  },
+  {
+    "Year": "2008",
+    "State": "KARNATAKA",
+    "Crop": "Wheat",
+    "Values": "257181"
+  },
+  {
+    "Year": "2008",
+    "State": "KERALA",
+    "Crop": "Rice",
+    "Values": "590241"
+  },
+  {
+    "Year": "2008",
+    "State": "KERALA",
+    "Crop": "Sugarcane",
+    "Values": "275480"
+  },
+  {
+    "Year": "2008",
+    "State": "MADHYA PRADESH",
+    "Crop": "Rice",
+    "Values": "1545524"
+  },
+  {
+    "Year": "2008",
+    "State": "MADHYA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "2380840"
+  },
+  {
+    "Year": "2008",
+    "State": "MADHYA PRADESH",
+    "Crop": "Wheat",
+    "Values": "7218045"
+  },
+  {
+    "Year": "2008",
+    "State": "MAHARASHTRA",
+    "Crop": "Rice",
+    "Values": "2234210"
+  },
+  {
+    "Year": "2008",
+    "State": "MAHARASHTRA",
+    "Crop": "Sugarcane",
+    "Values": "121297200"
+  },
+  {
+    "Year": "2008",
+    "State": "MAHARASHTRA",
+    "Crop": "Wheat",
+    "Values": "1517300"
+  },
+  {
+    "Year": "2008",
+    "State": "MEGHALYA",
+    "Crop": "Rice",
+    "Values": "203862"
+  },
+  {
+    "Year": "2008",
+    "State": "MEGHALYA",
+    "Crop": "Sugarcane",
+    "Values": "250"
+  },
+  {
+    "Year": "2008",
+    "State": "MEGHALYA",
+    "Crop": "Wheat",
+    "Values": "739"
+  },
+  {
+    "Year": "2008",
+    "State": "MIZORAM",
+    "Crop": "Rice",
+    "Values": "68917"
+  },
+  {
+    "Year": "2008",
+    "State": "MIZORAM",
+    "Crop": "Sugarcane",
+    "Values": "13696"
+  },
+  {
+    "Year": "2008",
+    "State": "NAGALAND",
+    "Crop": "Rice",
+    "Values": "290460"
+  },
+  {
+    "Year": "2008",
+    "State": "NAGALAND",
+    "Crop": "Sugarcane",
+    "Values": "150420"
+  },
+  {
+    "Year": "2008",
+    "State": "NAGALAND",
+    "Crop": "Wheat",
+    "Values": "1890"
+  },
+  {
+    "Year": "2008",
+    "State": "ORISSA",
+    "Crop": "Rice",
+    "Values": "6812000"
+  },
+  {
+    "Year": "2008",
+    "State": "ORISSA",
+    "Crop": "Sugarcane",
+    "Values": "10884"
+  },
+  {
+    "Year": "2008",
+    "State": "ORISSA",
+    "Crop": "Wheat",
+    "Values": "2753"
+  },
+  {
+    "Year": "2008",
+    "State": "PUNJAB",
+    "Crop": "Rice",
+    "Values": "9902000"
+  },
+  {
+    "Year": "2008",
+    "State": "PUNJAB",
+    "Crop": "Wheat",
+    "Values": "14115000"
+  },
+  {
+    "Year": "2008",
+    "State": "RAJASTHAN",
+    "Crop": "Rice",
+    "Values": "238317"
+  },
+  {
+    "Year": "2008",
+    "State": "RAJASTHAN",
+    "Crop": "Sugarcane",
+    "Values": "387279"
+  },
+  {
+    "Year": "2008",
+    "State": "RAJASTHAN",
+    "Crop": "Wheat",
+    "Values": "7170445"
+  },
+  {
+    "Year": "2008",
+    "State": "SIKKIM",
+    "Crop": "Rice",
+    "Values": "22230"
+  },
+  {
+    "Year": "2008",
+    "State": "SIKKIM",
+    "Crop": "Wheat",
+    "Values": "3500"
+  },
+  {
+    "Year": "2008",
+    "State": "TAMIL NADU",
+    "Crop": "Rice",
+    "Values": "5183385"
+  },
+  {
+    "Year": "2008",
+    "State": "TAMIL NADU",
+    "Crop": "Sugarcane",
+    "Values": "32798888"
+  },
+  {
+    "Year": "2008",
+    "State": "UTTAR PRADESH",
+    "Crop": "Rice",
+    "Values": "13097031"
+  },
+  {
+    "Year": "2008",
+    "State": "UTTAR PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "109047670"
+  },
+  {
+    "Year": "2008",
+    "State": "UTTAR PRADESH",
+    "Crop": "Wheat",
+    "Values": "28554178"
+  },
+  {
+    "Year": "2008",
+    "State": "UTTARANCHAL",
+    "Crop": "Rice",
+    "Values": "568321"
+  },
+  {
+    "Year": "2008",
+    "State": "UTTARANCHAL",
+    "Crop": "Sugarcane",
+    "Values": "5683369"
+  },
+  {
+    "Year": "2008",
+    "State": "UTTARANCHAL",
+    "Crop": "Wheat",
+    "Values": "770934"
+  },
+  {
+    "Year": "2008",
+    "State": "WEST BENGAL",
+    "Crop": "Rice",
+    "Values": "15037240"
+  },
+  {
+    "Year": "2008",
+    "State": "WEST BENGAL",
+    "Crop": "Sugarcane",
+    "Values": "1638267"
+  },
+  {
+    "Year": "2008",
+    "State": "WEST BENGAL",
+    "Crop": "Wheat",
+    "Values": "764528"
+  },
+  {
+    "Year": "2009",
+    "State": "A & N ISLANDS",
+    "Crop": "Rice",
+    "Values": "16600"
+  },
+  {
+    "Year": "2009",
+    "State": "A & N ISLANDS",
+    "Crop": "Sugarcane",
+    "Values": "1610"
+  },
+  {
+    "Year": "2009",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Rice",
+    "Values": "10838267"
+  },
+  {
+    "Year": "2009",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "11695863"
+  },
+  {
+    "Year": "2009",
+    "State": "ANDHRA PRADESH",
+    "Crop": "Wheat",
+    "Values": "10319"
+  },
+  {
+    "Year": "2009",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "7718"
+  },
+  {
+    "Year": "2009",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "27145"
+  },
+  {
+    "Year": "2009",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "4770"
+  },
+  {
+    "Year": "2009",
+    "State": "ASSAM",
+    "Crop": "Rice",
+    "Values": "4408424"
+  },
+  {
+    "Year": "2009",
+    "State": "ASSAM",
+    "Crop": "Sugarcane",
+    "Values": "1062418"
+  },
+  {
+    "Year": "2009",
+    "State": "ASSAM",
+    "Crop": "Wheat",
+    "Values": "65301"
+  },
+  {
+    "Year": "2009",
+    "State": "CHANDIGARH",
+    "Crop": "Rice",
+    "Values": "100"
+  },
+  {
+    "Year": "2009",
+    "State": "CHANDIGARH",
+    "Crop": "Wheat",
+    "Values": "2700"
+  },
+  {
+    "Year": "2009",
+    "State": "CHHATTISGARH",
+    "Crop": "Rice",
+    "Values": "4254580"
+  },
+  {
+    "Year": "2009",
+    "State": "CHHATTISGARH",
+    "Crop": "Sugarcane",
+    "Values": "35359"
+  },
+  {
+    "Year": "2009",
+    "State": "CHHATTISGARH",
+    "Crop": "Wheat",
+    "Values": "118901"
+  },
+  {
+    "Year": "2009",
+    "State": "GUJARAT",
+    "Crop": "Rice",
+    "Values": "1293000"
+  },
+  {
+    "Year": "2009",
+    "State": "GUJARAT",
+    "Crop": "Sugarcane",
+    "Values": "1330400"
+  },
+  {
+    "Year": "2009",
+    "State": "GUJARAT",
+    "Crop": "Wheat",
+    "Values": "2351300"
+  },
+  {
+    "Year": "2009",
+    "State": "HARYANA",
+    "Crop": "Rice",
+    "Values": "3628000"
+  },
+  {
+    "Year": "2009",
+    "State": "HARYANA",
+    "Crop": "Sugarcane",
+    "Values": "4078900"
+  },
+  {
+    "Year": "2009",
+    "State": "HARYANA",
+    "Crop": "Wheat",
+    "Values": "10488000"
+  },
+  {
+    "Year": "2009",
+    "State": "KARNATAKA",
+    "Crop": "Rice",
+    "Values": "3843252"
+  },
+  {
+    "Year": "2009",
+    "State": "KARNATAKA",
+    "Crop": "Wheat",
+    "Values": "263877"
+  },
+  {
+    "Year": "2009",
+    "State": "KERALA",
+    "Crop": "Rice",
+    "Values": "598339"
+  },
+  {
+    "Year": "2009",
+    "State": "KERALA",
+    "Crop": "Sugarcane",
+    "Values": "284970"
+  },
+  {
+    "Year": "2009",
+    "State": "MAHARASHTRA",
+    "Crop": "Rice",
+    "Values": "2137114"
+  },
+  {
+    "Year": "2009",
+    "State": "MAHARASHTRA",
+    "Crop": "Sugarcane",
+    "Values": "64159300"
+  },
+  {
+    "Year": "2009",
+    "State": "MAHARASHTRA",
+    "Crop": "Wheat",
+    "Values": "1740200"
+  },
+  {
+    "Year": "2009",
+    "State": "MEGHALYA",
+    "Crop": "Rice",
+    "Values": "204129"
+  },
+  {
+    "Year": "2009",
+    "State": "MEGHALYA",
+    "Crop": "Sugarcane",
+    "Values": "206"
+  },
+  {
+    "Year": "2009",
+    "State": "MEGHALYA",
+    "Crop": "Wheat",
+    "Values": "718"
+  },
+  {
+    "Year": "2009",
+    "State": "MIZORAM",
+    "Crop": "Rice",
+    "Values": "66131"
+  },
+  {
+    "Year": "2009",
+    "State": "MIZORAM",
+    "Crop": "Sugarcane",
+    "Values": "12368"
+  },
+  {
+    "Year": "2009",
+    "State": "ORISSA",
+    "Crop": "Rice",
+    "Values": "6913000"
+  },
+  {
+    "Year": "2009",
+    "State": "ORISSA",
+    "Crop": "Sugarcane",
+    "Values": "16842"
+  },
+  {
+    "Year": "2009",
+    "State": "ORISSA",
+    "Crop": "Wheat",
+    "Values": "1353"
+  },
+  {
+    "Year": "2009",
+    "State": "PUNJAB",
+    "Crop": "Rice",
+    "Values": "10112000"
+  },
+  {
+    "Year": "2009",
+    "State": "PUNJAB",
+    "Crop": "Sugarcane",
+    "Values": "36500"
+  },
+  {
+    "Year": "2009",
+    "State": "PUNJAB",
+    "Crop": "Wheat",
+    "Values": "13640000"
+  },
+  {
+    "Year": "2009",
+    "State": "RAJASTHAN",
+    "Crop": "Rice",
+    "Values": "225966"
+  },
+  {
+    "Year": "2009",
+    "State": "RAJASTHAN",
+    "Crop": "Sugarcane",
+    "Values": "344041"
+  },
+  {
+    "Year": "2009",
+    "State": "RAJASTHAN",
+    "Crop": "Wheat",
+    "Values": "7342756"
+  },
+  {
+    "Year": "2009",
+    "State": "SIKKIM",
+    "Crop": "Rice",
+    "Values": "20930"
+  },
+  {
+    "Year": "2009",
+    "State": "SIKKIM",
+    "Crop": "Wheat",
+    "Values": "4720"
+  },
+  {
+    "Year": "2009",
+    "State": "TAMIL NADU",
+    "Crop": "Rice",
+    "Values": "5665258"
+  },
+  {
+    "Year": "2009",
+    "State": "TAMIL NADU",
+    "Crop": "Sugarcane",
+    "Values": "29758209"
+  },
+  {
+    "Year": "2009",
+    "State": "UTTAR PRADESH",
+    "Crop": "Rice",
+    "Values": "10776504"
+  },
+  {
+    "Year": "2009",
+    "State": "UTTAR PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "117139919"
+  },
+  {
+    "Year": "2009",
+    "State": "UTTAR PRADESH",
+    "Crop": "Wheat",
+    "Values": "27518022"
+  },
+  {
+    "Year": "2009",
+    "State": "UTTARANCHAL",
+    "Crop": "Rice",
+    "Values": "591016"
+  },
+  {
+    "Year": "2009",
+    "State": "UTTARANCHAL",
+    "Crop": "Sugarcane",
+    "Values": "6088488"
+  },
+  {
+    "Year": "2009",
+    "State": "UTTARANCHAL",
+    "Crop": "Wheat",
+    "Values": "829319"
+  },
+  {
+    "Year": "2009",
+    "State": "WEST BENGAL",
+    "Crop": "Rice",
+    "Values": "14340605"
+  },
+  {
+    "Year": "2009",
+    "State": "WEST BENGAL",
+    "Crop": "Sugarcane",
+    "Values": "1000808"
+  },
+  {
+    "Year": "2009",
+    "State": "WEST BENGAL",
+    "Crop": "Wheat",
+    "Values": "846657"
+  },
+  {
+    "Year": "2010",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Rice",
+    "Values": "155993"
+  },
+  {
+    "Year": "2010",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "28974"
+  },
+  {
+    "Year": "2010",
+    "State": "ARUNACHAL PRADESH",
+    "Crop": "Wheat",
+    "Values": "5872"
+  },
+  {
+    "Year": "2010",
+    "State": "ASSAM",
+    "Crop": "Rice",
+    "Values": "5032529"
+  },
+  {
+    "Year": "2010",
+    "State": "ASSAM",
+    "Crop": "Sugarcane",
+    "Values": "1076332"
+  },
+  {
+    "Year": "2010",
+    "State": "ASSAM",
+    "Crop": "Wheat",
+    "Values": "56216"
+  },
+  {
+    "Year": "2010",
+    "State": "CHANDIGARH",
+    "Crop": "Rice",
+    "Values": "103"
+  },
+  {
+    "Year": "2010",
+    "State": "CHANDIGARH",
+    "Crop": "Wheat",
+    "Values": "2715"
+  },
+  {
+    "Year": "2010",
+    "State": "CHHATTISGARH",
+    "Crop": "Rice",
+    "Values": "6459114"
+  },
+  {
+    "Year": "2010",
+    "State": "CHHATTISGARH",
+    "Crop": "Sugarcane",
+    "Values": "18445"
+  },
+  {
+    "Year": "2010",
+    "State": "CHHATTISGARH",
+    "Crop": "Wheat",
+    "Values": "121712"
+  },
+  {
+    "Year": "2010",
+    "State": "GUJARAT",
+    "Crop": "Rice",
+    "Values": "1665800"
+  },
+  {
+    "Year": "2010",
+    "State": "GUJARAT",
+    "Crop": "Sugarcane",
+    "Values": "1376300"
+  },
+  {
+    "Year": "2010",
+    "State": "GUJARAT",
+    "Crop": "Wheat",
+    "Values": "5013400"
+  },
+  {
+    "Year": "2010",
+    "State": "HIMACHAL PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "38253"
+  },
+  {
+    "Year": "2010",
+    "State": "MAHARASHTRA",
+    "Crop": "Rice",
+    "Values": "2624900"
+  },
+  {
+    "Year": "2010",
+    "State": "MAHARASHTRA",
+    "Crop": "Sugarcane",
+    "Values": "85691500"
+  },
+  {
+    "Year": "2010",
+    "State": "MAHARASHTRA",
+    "Crop": "Wheat",
+    "Values": "2300800"
+  },
+  {
+    "Year": "2010",
+    "State": "NAGALAND",
+    "Crop": "Rice",
+    "Values": "324160"
+  },
+  {
+    "Year": "2010",
+    "State": "NAGALAND",
+    "Crop": "Sugarcane",
+    "Values": "151430"
+  },
+  {
+    "Year": "2010",
+    "State": "NAGALAND",
+    "Crop": "Wheat",
+    "Values": "4770"
+  },
+  {
+    "Year": "2010",
+    "State": "PUNJAB",
+    "Crop": "Rice",
+    "Values": "9745000"
+  },
+  {
+    "Year": "2010",
+    "State": "PUNJAB",
+    "Crop": "Wheat",
+    "Values": "14823000"
+  },
+  {
+    "Year": "2010",
+    "State": "SIKKIM",
+    "Crop": "Rice",
+    "Values": "20973"
+  },
+  {
+    "Year": "2010",
+    "State": "SIKKIM",
+    "Crop": "Wheat",
+    "Values": "2710"
+  },
+  {
+    "Year": "2010",
+    "State": "UTTAR PRADESH",
+    "Crop": "Rice",
+    "Values": "11755359"
+  },
+  {
+    "Year": "2010",
+    "State": "UTTAR PRADESH",
+    "Crop": "Sugarcane",
+    "Values": "120544784"
+  },
+  {
+    "Year": "2010",
+    "State": "UTTAR PRADESH",
+    "Crop": "Wheat",
+    "Values": "29768523"
+  }
+]
