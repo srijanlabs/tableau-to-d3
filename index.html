@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-		<title>D3 Simple demo for tableau chart replication</title>
+	  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="content-language" content="en">
+    <meta name="author" content="Sanjay Rohila">
+		<title>Data Visualization: Crop Production in India with D3.js</title>
+    <link rel="shortcut icon" href="https://www.srijan.net/hubfs/Srijantechnologies%20Feb2017%20Theme/images/favicon.ico">
 		<script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
 		<style type="text/css">
       body {
@@ -55,7 +59,7 @@
   <!-- <div class="overlay"></div> -->
   <div id="filter-year">
     <p>A demo of &nbsp <a href="https://www.srijan.net/labs/data-visualization-crops-production-india">Tableau | Crop Visualization</a>&nbsp with D3js</p>
-    <p><button id="play">Play</button></p>
+    <p><button id="play">Start Animation</button><p>
     <label for="year">Filter by year:</label>
     <select id="year">
       <option value="all">All</option>
@@ -101,7 +105,9 @@
       renderchart({"children": dataset}, true);
     }, false);
 
-    document.getElementById("play").removeEventListener('click', playTimeLine, false);
+    // Remove last event
+    document.getElementById("play").removeEventListener('click', playTimeLine);
+    // Add event
     document.getElementById("play").addEventListener('click', playTimeLine, false);
     function playTimeLine() {
       for (let i = 0; i <= year_filter.options.length; i++) {
