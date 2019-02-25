@@ -81,6 +81,20 @@
         .attr("class", "tooltip")
         .style("opacity", 0);
 
+		var x = d3.scaleLog()
+		  .range([0, diameter]);
+		var y = d3.scaleLinear()
+		  .range([diameter, 0]);
+		var radius = d3.scaleSqrt()
+	  .range([2, 80]);
+		var xAxis = d3.axisBottom()
+		  .scale(x)
+		  .ticks(5, d3.format(",d"));
+		var yAxis = d3.axisLeft()
+		  .scale(y)
+		  .tickSize(-diameter);
+
+
     var svg = d3.select("body")
         .append("svg")
         .attr("width", diameter)
@@ -130,6 +144,13 @@
       var bubble = d3.pack(dataset)
           .size([diameter, diameter])
           .padding(1.5);
+
+			y.domain(d3.extent(dataset, function(d) { return d.Values }))
+		  radius.domain(d3.extent(dataset, function(d) { return d.Values }));
+
+			svg.append("g")
+	    .attr("class", "axis y")
+	    .call(yAxis);
 
       var nodes = d3.hierarchy(dataset)
           .sum(function(d) {return d.Values; });

@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html class="ocks-org do-not-copy">
+<meta charset="utf-8">
+<title>The Wealth & Health of Nations</title>
+<style>
+
+text {
+  font: 10px sans-serif;
+}
+.tooltip {
+  position: absolute;
+  font: 12px sans-serif;
+  background: #FFF;
+  border: 1px solid #ccc;
+  pointer-events: none;
+  padding: 10px;
+  box-shadow: 2px 2px 3px #666;
+}
+p {
+  margin: 0;
+  padding: 2px 0;
+  display: flex;
+}
+span {
+  display: flex;
+  flex-basis: 50%;
+}
+
+.dot {
+  stroke: #000;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.label {
+  fill: #777;
+}
+
+.year.label {
+  font: 500 80px "Helvetica Neue";
+  fill: #ddd;
+}
+
+.year.label.active {
+  fill: #aaa;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+  cursor: ew-resize;
+}
+
+#play {
+  border: 0;
+  font-size: 24px;
+  padding: 5px 20px;
+  margin: 20px 0;
+  background: teal;
+  color: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+</style>
+<h1>Main crops by state: Sugarcane, Wheat and Rice</h1>
+<h4>A demo of &nbsp <a target="_blank" href="https://www.srijan.net/labs/data-visualization-crops-production-india">Tableau | Crop Visualization</a>&nbsp with D3js</h4>
+<p id="chart"></p>
+<button id="play">Play</button>
+<p>Hover and move mouse on Year label to change years</p>
+
+<script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script>
+
+// Various accessors that specify the four dimensions of data to visualize.
+function x(d) { return d.Values; }
+// function y(d) { return d.Year; }
+function radius(d) { return d.Values; }
+function color(d) { return d.Crop; }
+function key(d) { return `${d.State}-${d.Crop}`; }
+
+// Chart dimensions.
+var margin = {top: 19.5, right: 19.5, bottom: 19.5, left: 39.5},
+    width = 960 - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+// Various scales. These domains make assumptions of data, naturally.
+var xScale = d3.scale.log().domain([100, 3e8]).range([0, width]),
+    yScale = d3.scale.linear().range([height, 0]),
+    radiusScale = d3.scale.sqrt().domain([0, 3e8]).range([0, 120]),
+    colorScale = d3.scale.category10();
+
+// The x & y axes.
+var xAxis = d3.svg.axis().orient("bottom").scale(xScale).ticks(12, d3.format(",d"))
+    yAxis = d3.svg.axis().scale(yScale).orient("left").ticks(3, d3.format(",d"));
+
+// Create the SVG container and set the origin.
+var svg = d3.select("#chart").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+// Define the div for the tooltip
+var tooltip = d3.select("#chart").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+// Add the x-axis.
+svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(0," + height + ")")
+    .call(xAxis);
+
+// Add the y-axis.
+svg.append("g")
+    .attr("class", "y axis")
+    .call(yAxis);
+
+// Add an x-axis label.
+svg.append("text")
+    .attr("class", "x label")
+    .attr("text-anchor", "end")
+    .attr("x", width)
+    .attr("y", height - 6)
+    .text("Production (in tonnes)");
+
+// Add a y-axis label.
+// svg.append("text")
+//     .attr("class", "y label")
+//     .attr("text-anchor", "end")
+//     .attr("y", 6)
+//     .attr("dy", ".75em")
+//     .attr("transform", "rotate(-90)")
+//     .text("Crops");
+
+// Add the year label; the value is set on transition.
+var label = svg.append("text")
+    .attr("class", "year label")
+    .attr("text-anchor", "end")
+    .attr("y", height - 24)
+    .attr("x", width)
+    .text(1998);
+
+// Load the data.
+d3.json("crop-data.json", function(dataset) {
+
+  // A bisector since many nation's data is sparsely-defined.
+  // var bisect = d3.bisector(function(d) { return d[0]; });
+  var dotSvg = svg.append("g")
+  .attr("class", "dots");
+
+  function draw(dset) {
+    // Add a dot per nation. Initialize the data at 1800, and set the colors.
+      var dot = dotSvg.selectAll(".dot")
+        .data(dset, key)
+        .call(position);
+      dot.exit().remove();
+      var dotEnter = dot.enter()
+        .append("circle")
+        .attr("class", "dot")
+        .style("fill", function(d) { return colorScale(color(d)); })
+        .call(position)
+        .on('mouseover', function(d) {
+          tooltip.transition()
+              .duration(200)
+              .style("opacity", .9);
+          tooltip.html(function() {
+                return `
+                  <p><span><strong>State:</strong></span><span>${d.State}</span></p>
+                  <p><span><strong>Crop:</strong></span><span>${d.Crop}</span></p>
+                  <p><span><strong>Year:</strong></span><span>${d.Year}</span></p>
+                  <p><span><strong>Production (in tonnes):</strong></span><span>${d.Values}</span></p>
+                `;
+              })
+              .style("left", (d3.event.pageX) + "px")
+              .style("top", (d3.event.pageY - 28) + "px");
+        })
+        .on('mouseout', function(d) {
+          tooltip.transition()
+            .duration(0)
+            .style("opacity", 0);
+          tooltip.html("");
+        });
+        // .sort(order);
+
+      // Add a title.
+      dotEnter.append("title")
+        .text(function(d) { return d.State; });
+
+      dot.exit().remove();
+  }
+
+  draw(interpolateData(1998));
+
+  // Add an overlay for the year label.
+  var box = label.node().getBBox();
+
+  var overlay = svg.append("rect")
+        .attr("class", "overlay")
+        .attr("x", box.x)
+        .attr("y", box.y)
+        .attr("width", box.width)
+        .attr("height", 60)
+        .on("mouseover", enableInteraction);
+
+  // Start a transition that interpolates the data based on year.
+  function runTransition() {
+    svg.transition()
+    .duration(20000)
+    .ease("linear")
+    .tween("year", tweenYear)
+    .each("end", enableInteraction);
+  }
+  runTransition();
+
+  // Positions the dots based on data.
+  function position(dotEnter) {
+    dotEnter
+        .transition()
+        .duration(100)
+        .attr("cx", function(d) { return xScale(x(d)); })
+        .attr("cy", function(d) {
+          if (d.Crop == 'Sugarcane') {return 90}
+          else if (d.Crop == 'Rice') {return 180}
+          else {return 250}
+        })
+        .attr("r", function(d) { return radiusScale(radius(d)); })
+  }
+
+  // Defines a sort order so that the smallest dots are drawn on top.
+  function order(a, b) {
+    return radius(b) - radius(a);
+  }
+
+  // After the transition finishes, you can mouseover to change the year.
+  function enableInteraction() {
+    var yearScale = d3.scale.linear()
+        .domain([1998, 2010])
+        .range([box.x + 10, box.x + box.width - 10])
+        .clamp(true);
+
+    // Cancel the current transition, if any.
+    svg.transition().duration(0);
+
+    overlay
+        .on("mouseover", mouseover)
+        .on("mouseout", mouseout)
+        .on("mousemove", mousemove)
+        .on("touchmove", mousemove);
+
+    function mouseover() {
+      label.classed("active", true);
+    }
+
+    function mouseout() {
+      label.classed("active", false);
+    }
+
+    function mousemove() {
+      displayYear(yearScale.invert(d3.mouse(this)[0]));
+    }
+  }
+
+  // Tweens the entire chart by first tweening the year, and then the data.
+  // For the interpolated data, the dots and label are redrawn.
+  function tweenYear() {
+    var year = d3.interpolateNumber(1998, 2010);
+    return function(t) { displayYear(year(t)); };
+  }
+
+  // Updates the display to show the specified year.
+  function displayYear(year) {
+    draw(interpolateData(year));
+    label.text(Math.round(year));
+  }
+
+  // Interpolates the dataset for the given (fractional) year.
+  function interpolateData(year) {
+    var tt = dataset.filter(d => {
+      if (d.Year == Math.round(year) && d.Values != 0) {
+        return true;
+      }
+      return false;
+    });
+    return tt;
+  }
+
+  d3.select('#play').on('click', function() {
+    runTransition();
+  });
+
+});
+
+</script>
