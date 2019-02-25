@@ -87,23 +87,23 @@ span {
 function x(d) { return d.Values; }
 // function y(d) { return d.Year; }
 function radius(d) { return d.Values; }
-function color(d) { return d.Crop; }
+function color(d) { return d.State; }
 function key(d) { return `${d.State}-${d.Crop}`; }
 
 // Chart dimensions.
-var margin = {top: 19.5, right: 19.5, bottom: 19.5, left: 39.5},
+var margin = {top: 19.5, right: 19.5, bottom: 19.5, left: 100},
     width = 960 - margin.right,
     height = 500 - margin.top - margin.bottom;
 
 // Various scales. These domains make assumptions of data, naturally.
 var xScale = d3.scale.log().domain([100, 3e8]).range([0, width]),
-    yScale = d3.scale.linear().range([height, 0]),
+    yScale = d3.scale.ordinal().domain(['Wheat', 'Rice', 'Sugarcane']).rangePoints([height, 0]),
     radiusScale = d3.scale.sqrt().domain([0, 3e8]).range([0, 120]),
-    colorScale = d3.scale.category10();
+    colorScale = d3.scale.category20();
 
 // The x & y axes.
 var xAxis = d3.svg.axis().orient("bottom").scale(xScale).ticks(12, d3.format(",d"))
-    yAxis = d3.svg.axis().scale(yScale).orient("left").ticks(3, d3.format(",d"));
+    yAxis = d3.svg.axis().scale(yScale).orient("left").tickPadding([10]);
 
 // Create the SVG container and set the origin.
 var svg = d3.select("#chart").append("svg")
