@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="content-language" content="en">
+    <meta name="author" content="Sanjay Rohila">
+		<title>Data Visualization: Crop Production in India with D3.js</title>
+    <link rel="shortcut icon" href="https://www.srijan.net/hubfs/Srijantechnologies%20Feb2017%20Theme/images/favicon.ico">
+		<script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+		<style type="text/css">
+      #container {
+        display: flex;
+        justify-content: space-evenly;
+      }
+      .overlay {
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(255,255,255,.7);
+      }
+      .fade .overlay {
+        display: block;
+      }
+      .tooltip {
+        position: absolute;
+        font: 12px sans-serif;
+        background: #FFF;
+        border: 1px solid #ccc;
+        pointer-events: none;
+        padding: 10px;
+        box-shadow: 2px 2px 3px #666;
+      }
+      p {
+        margin: 0;
+        padding: 2px 0;
+        display: flex;
+      }
+      span {
+        display: flex;
+        flex-basis: 50%;
+      }
+      circle {
+        opacity: 0;
+      }
+      .bubble {
+        opacity: 0;
+        transition: opacity .3s ease-in;
+      }
+      .bubble:not(:empty) {
+        opacity: 1;
+      }
+		</style>
+</head>
+<body>
+	<ul>
+	  <li><a href="/">Indian Crop data | GapMinder Animation</a></li>
+	  <li><a href="crop-animation.html">Indian Crop data | Plain</a></li>
+	  <li><a href="gap-minder.html">Health & Wealth per Nation</a></li>
+	</ul>
+	<div id="container">
+  <!-- <div class="overlay"></div> -->
+  <div id="filter-year">
+		<h1>Main crops by state: Sugarcane, Wheat and Rice</h1>
+    <p>A demo of &nbsp <a target="_blank" href="https://www.srijan.net/labs/data-visualization-crops-production-india">Tableau | Crop Visualization</a>&nbsp with D3js</p>
+    <p><button id="play">Start Animation</button><p>
+    <label for="year">Filter by year:</label>
+    <select id="year">
+      <option value="all">All</option>
+    </select>
+  </div>
+	<script type="text/javascript">
+    var years = ['1998','1999','2000','2001','2002','2003','2004','2005','2006','2007','2008','2009','2010'];
+    var year_filter = document.getElementById('year');
+    years.forEach(function(year) {
+      year_filter.innerHTML += `<option value="${year}">${year}</option>`;
+    });
+
+    var diameter = 600;
+    var color = d3.scaleOrdinal().range(d3.schemeCategory10);
+
+    // Define the div for the tooltip
+    var div = d3.select("#container").append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+
+		var x = d3.scaleLog()
+		  .range([0, diameter]);
+		var y = d3.scaleLinear()
+		  .range([diameter, 0]);
+		var radius = d3.scaleSqrt()
+	  .range([2, 80]);
+		var xAxis = d3.axisBottom()
+		  .scale(x)
+		  .ticks(5, d3.format(",d"));
+		var yAxis = d3.axisLeft()
+		  .scale(y)
+		  .tickSize(-diameter);
+
+
+    var svg = d3.select("#container")
+        .append("svg")
+        .attr("width", diameter)
+        .attr("height", diameter)
+        .attr("class", "bubble");
+
+    fetch("./crop-data.json")
+    .then(response => response.json())
+    .then(dataset => {
+        localStorage.setItem('dataset', JSON.stringify(dataset));
+        if (year_filter.value != 'all') {
+          dataset = dataset.filter(d => d.Year == year_filter.value);
+        }
+        renderchart({"children": dataset});
+    });
+
+    year_filter.addEventListener('change', function() {
+      // reset svg
+      document.body.classList.add('fade');
+      svg.selectAll("*").remove();
+      var data = JSON.parse(localStorage.getItem('dataset'));
+      var dataset = data.filter(d => d.Year == this.value);
+      renderchart({"children": dataset}, true);
+    }, false);
+
+    // Remove last event
+    document.getElementById("play").removeEventListener('click', playTimeLine);
+    // Add event
+    document.getElementById("play").addEventListener('click', playTimeLine, false);
+    function playTimeLine() {
+      for (let i = 0; i <= year_filter.options.length; i++) {
+        setTimeout(function() {
+          var next = year_filter.selectedOptions[0];
+          if (next.nextElementSibling) {
+            year_filter.value = next.nextElementSibling.value;
+            year_filter.dispatchEvent(new Event('change'));
+          }
+        }, 1000*i);
+      }
+    }
+
+    // Render chart
+    function renderchart(dataset, update) {
+      var t = d3.transition()
+          .duration(200);
+
+      var bubble = d3.pack(dataset)
+          .size([diameter, diameter])
+          .padding(1.5);
+
+			y.domain(d3.extent(dataset, function(d) { return d.Values }))
+		  radius.domain(d3.extent(dataset, function(d) { return d.Values }));
+
+			svg.append("g")
+	    .attr("class", "axis y")
+	    .call(yAxis);
+
+      var nodes = d3.hierarchy(dataset)
+          .sum(function(d) {return d.Values; });
+
+      var node = svg.selectAll(".node")
+          .data(bubble(nodes).descendants())
+          .enter()
+          .filter(function(d){
+              return  !d.children
+          })
+          .append("g")
+          .attr("class", "node")
+          // .transition(t)
+          .attr("transform", function(d) {
+              return "translate(" + d.x + "," + d.y + ")";
+          })
+          .on('mouseover', function(d) {
+            div.transition()
+                .duration(200)
+                .style("opacity", .9);
+            div.html(function() {
+                  return `
+                    <p><span><strong>State:</strong></span><span>${d.data.State}</span></p>
+                    <p><span><strong>Crop:</strong></span><span>${d.data.Crop}</span></p>
+                    <p><span><strong>Year:</strong></span><span>${d.data.Year}</span></p>
+                    <p><span><strong>Production (in tonnes):</strong></span><span>${d.data.Values}</span></p>
+                  `;
+                })
+                .style("left", (d3.event.pageX) + "px")
+                .style("top", (d3.event.pageY - 28) + "px");
+          })
+          .on('mouseout', function(d) {
+            div.transition()
+              .duration(0)
+              .style("opacity", 0);
+            div.html("");
+          });
+
+      // node.append("title")
+      //     .text(function(d) {
+      //         return d.data.State + ": " + d.data.Values;
+      //     });
+      var colors = {
+        'Wheat': '#1f77b4',
+        'Sugarcane': '#ff7f0e',
+        'Rice': '#2ca02c'
+      }
+
+      node.append("circle")
+          .transition(t)
+          .attr("r", function(d) {
+              return d.r;
+          })
+          .style('opacity', 1)
+          .style("fill", function(d) {
+              return colors[d.data.Crop];
+              // return color(d.data.crop);
+          });
+
+      node.append("text")
+          // .transition(t)
+          .attr("dy", ".2em")
+          .style("text-anchor", "middle")
+          .text(function(d) {
+              return d.data.State.substring(0, d.r / 3);
+          })
+          .attr("font-family", "sans-serif")
+          .attr("font-size", function(d){
+              return d.r/6;
+          })
+          .attr("fill", "white");
+
+      node.append("text")
+          // .transition(t)
+          .attr("dy", "1.3em")
+          .style("text-anchor", "middle")
+          .text(function(d) {
+              return d.data.Crop;
+          })
+          .attr("font-family",  "Gill Sans", "Gill Sans MT")
+          .attr("font-size", function(d){
+              return d.r/7;
+          })
+          .attr("fill", "white");
+
+      document.body.classList.remove('fade');
+    }
+
+    d3.select(self.frameElement)
+        .style("height", diameter + "px");
+	</script>
+</div>
+</body>
+</html>
