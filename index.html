@@ -96,8 +96,8 @@ var margin = {top: 19.5, right: 19.5, bottom: 19.5, left: 100},
     height = 500 - margin.top - margin.bottom;
 
 // Various scales. These domains make assumptions of data, naturally.
-var xScale = d3.scale.log().domain([100, 3e8]).range([0, width]),
-    yScale = d3.scale.ordinal().domain(['Wheat', 'Rice', 'Sugarcane']).rangePoints([height, 0]),
+var xScale = d3.scale.log().domain([10, 3e8]).range([0, width]),
+    yScale = d3.scale.ordinal().domain(['Sugarcane', 'Rice', 'Wheat']).rangePoints([height, 0]),
     radiusScale = d3.scale.sqrt().domain([0, 3e8]).range([0, 120]),
     colorScale = d3.scale.category20();
 
@@ -126,7 +126,11 @@ svg.append("g")
 // Add the y-axis.
 svg.append("g")
     .attr("class", "y axis")
-    .call(yAxis);
+    .call(yAxis)
+    .selectAll('.tick').each(function(d, i) {
+      var tick = d3.select(this);
+      tick.attr('transform', `translate(0,${80*(i+1)})`)
+    })
 
 // Add an x-axis label.
 svg.append("text")
@@ -232,9 +236,9 @@ d3.json("crop-data.json", function(dataset) {
         .duration(100)
         .attr("cx", function(d) { return xScale(x(d)); })
         .attr("cy", function(d) {
-          if (d.Crop == 'Sugarcane') {return 90}
-          else if (d.Crop == 'Rice') {return 180}
-          else {return 250}
+          if (d.Crop == 'Sugarcane') {return 80}
+          else if (d.Crop == 'Rice') {return 160}
+          else {return 240}
         })
         .attr("r", function(d) { return radiusScale(radius(d)); })
   }
