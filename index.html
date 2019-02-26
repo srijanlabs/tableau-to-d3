@@ -3,8 +3,9 @@
 <head>
 <meta charset="utf-8">
 <title>The Wealth & Health of Nations</title>
+<link rel="stylesheet" href="tagify.css" />
+<script src="tagify.min.js" async></script>
 <style>
-
 text {
   font: 10px sans-serif;
 }
@@ -70,12 +71,16 @@ span {
 </head>
 <body>
 <ul>
-  <li><a href="/">Indian Crop data | GapMinder Animation</a></li>
+  <li><a href="./">Indian Crop data | GapMinder Animation</a></li>
   <li><a href="crop-animation.html">Indian Crop data | Plain</a></li>
   <li><a href="gap-minder.html">Health & Wealth per Nation</a></li>
 </ul>
 <h1>Main crops by state: Sugarcane, Wheat and Rice</h1>
 <h4>A demo of &nbsp <a target="_blank" href="https://www.srijan.net/labs/data-visualization-crops-production-india">Tableau | Crop Visualization</a>&nbsp with D3js</h4>
+<div class="filter" style="width: 40%;">
+  <label>Filter by State:</label>
+  <input class="awesomplete" id="stateList" list="statesList" placeholder="Type state name" data-multiple />
+</div>
 <p id="chart"></p>
 <button id="play">Play</button>
 <p>Hover and move mouse on Year label to change years</p>
@@ -157,8 +162,23 @@ var label = svg.append("text")
     .attr("x", width)
     .text(1998);
 
+// Add an overlay for the year label.
+var box = label.node().getBBox();
+
+var overlay = svg.append("rect")
+      .attr("class", "overlay")
+      .attr("x", box.x)
+      .attr("y", box.y)
+      .attr("width", box.width)
+      .attr("height", 60)
+      .on("mouseover", enableInteraction);
+
 // Load the data.
 d3.json("crop-data.json", function(dataset) {
+  localStorage.setItem('dataset', JSON.stringify(dataset));
+  draw(interpolateData(1998));
+  runTransition();
+});
 
   // A bisector since many nation's data is sparsely-defined.
   // var bisect = d3.bisector(function(d) { return d[0]; });
@@ -205,20 +225,6 @@ d3.json("crop-data.json", function(dataset) {
 
       dot.exit().remove();
   }
-
-  draw(interpolateData(1998));
-
-  // Add an overlay for the year label.
-  var box = label.node().getBBox();
-
-  var overlay = svg.append("rect")
-        .attr("class", "overlay")
-        .attr("x", box.x)
-        .attr("y", box.y)
-        .attr("width", box.width)
-        .attr("height", 60)
-        .on("mouseover", enableInteraction);
-
   // Start a transition that interpolates the data based on year.
   function runTransition() {
     svg.transition()
@@ -227,7 +233,6 @@ d3.json("crop-data.json", function(dataset) {
     .tween("year", tweenYear)
     .each("end", enableInteraction);
   }
-  runTransition();
 
   // Positions the dots based on data.
   function position(dotEnter) {
@@ -292,6 +297,7 @@ d3.json("crop-data.json", function(dataset) {
 
   // Interpolates the dataset for the given (fractional) year.
   function interpolateData(year) {
+    var dataset = getFilteredDataset();
     var tt = dataset.filter(d => {
       if (d.Year == Math.round(year) && d.Values != 0) {
         return true;
@@ -305,7 +311,28 @@ d3.json("crop-data.json", function(dataset) {
     runTransition();
   });
 
+  function getFilteredDataset() {
+    dataset = JSON.parse(localStorage.getItem('dataset'));
+    var stateFilter = document.querySelector("#stateList");
+    // apply filters
+    if (stateFilter.value && stateFilter.value.length) {
+      filters = JSON.parse(stateFilter.value);
+      if (filters && filters.length) {
+        var ff = filters.map(f => f.value);
+        dataset = dataset.filter(d => (ff.indexOf(d.State) > -1));
+      }
+    }
+    return dataset;
+  };
+</script>
+<script>
+d3.json("crop-data.json", function(dataset) {
+  var list = dataset.map(function(i) { return i.State; });
+  var uniqueList = [...new Set(list)];
+  var filterInput = document.querySelector("#stateList");
+  var tagify = new Tagify(filterInput, {whitelist:uniqueList});
+  tagify.on('add', runTransition);
+  tagify.on('remove', runTransition);
 });
-
 </script>
 </body>
